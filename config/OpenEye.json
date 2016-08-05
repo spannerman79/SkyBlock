@@ -41,7 +41,7 @@
         },
         "mainScreenNotes": {
             "comment": "Enables OpenEye additions to main menu screen",
-            "value": true
+            "value": false
         }
     }
 }

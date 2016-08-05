@@ -1,0 +1,5 @@
+subworlds:
+oldNorthWorlds:
+name:Nether Portal,x:736,z:-656,y:92,enabled:true,red:0.48066425,green:0.29564577,blue:0.103036106,suffix:,world:,dimensions:-1#
+name:Portal,x:768,z:-707,y:29,enabled:true,red:0.06563008,green:0.3453033,blue:0.4772281,suffix:,world:,dimensions:6#
+name:Nether Portal,x:760,z:-698,y:80,enabled:true,red:0.7705966,green:0.76320887,blue:0.80299526,suffix:,world:,dimensions:0#
