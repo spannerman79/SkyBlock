@@ -3211,44 +3211,44 @@ ComputerCraft:CC-TurtleAdvanced:0, Advanced Digging Turtle
 ComputerCraft:CC-TurtleAdvanced:0, Advanced Mining Turtle
 ComputerCraft:CC-TurtleAdvanced:0, Advanced Felling Turtle
 ComputerCraft:CC-TurtleAdvanced:0, Advanced Farming Turtle
-ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
 ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
 ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:aspectAnalyzer, Aspectalyzer
-ThaumicTinkerer:magnet:0, Kinetic Attractor
-ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:golemConnector, Golem Connector
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:dislocator, Transvector Dislocator
 ThaumicTinkerer:nitorGas, tile.nitorGas.name
 ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:platform, Ethereal Platform
 ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
 ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:travelStairs, Paving Stair of Travel
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
+ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:golemConnector, Golem Connector
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:magnet:0, Kinetic Attractor
+ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:aspectAnalyzer, Aspectalyzer
+ThaumicTinkerer:travelStairs, Paving Stair of Travel
 ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
 ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
-ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
-ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
 ForbiddenMagic:ArcaneCake, Thaumic Cake
 ForbiddenMagic:WrathCage, Wrath Cage
 ForbiddenMagic:InkFlower, Umbral Rose
@@ -5330,41 +5330,6 @@ deepresonance:pedestalBlock, Pedestal
 deepresonance:valveBlock, Valve
 deepresonance:lensBlock, Lens
 deepresonance:laserBlock, Infusing Laser
-DefenseTech:explosives:0, Condensed Explosives
-DefenseTech:explosives:1, Shrapnel Explosives
-DefenseTech:explosives:2, Incendiary Explosives
-DefenseTech:explosives:3, Debilitation Explosives
-DefenseTech:explosives:4, Chemical Explosives
-DefenseTech:explosives:5, Anvil Explosives
-DefenseTech:explosives:6, Repulsive Explosives
-DefenseTech:explosives:7, Attractive Explosives
-DefenseTech:explosives:8, Fragmentation Explosives
-DefenseTech:explosives:9, Contagious Explosives
-DefenseTech:explosives:10, Sonic Explosives
-DefenseTech:explosives:11, Breaching Explosives
-DefenseTech:explosives:12, Rejuvenation Explosives
-DefenseTech:explosives:13, Thermobaric Explosives
-DefenseTech:explosives:14, S-Mine
-DefenseTech:explosives:15, Nuclear Explosives
-DefenseTech:explosives:16, EMP Explosives
-DefenseTech:explosives:17, Exothermic Explosives
-DefenseTech:explosives:18, Endothermic Explosives
-DefenseTech:explosives:19, Anti-Gravitational Explosives
-DefenseTech:explosives:20, Hypersonic Explosives
-DefenseTech:explosives:21, Antimatter Explosives
-DefenseTech:explosives:22, Red Matter Explosives
-DefenseTech:machine:0, Launcher Platform T1
-DefenseTech:machine:0, Launcher Platform T2
-DefenseTech:machine:0, Launcher Platform T3
-DefenseTech:machine:1, Launcher Control Panel T1
-DefenseTech:machine:1, Launcher Control Panel T2
-DefenseTech:machine:1, Launcher Control Panel T3
-DefenseTech:machine:2, Launcher Support Frame T1
-DefenseTech:machine:2, Launcher Support Frame T2
-DefenseTech:machine:2, Launcher Support Frame T3
-DefenseTech:machine:3, Radar Station
-DefenseTech:machine:4, EMP Tower
-DefenseTech:machine:5, Cruise Launcher
 DimensionalAnchors:chunkloader, Dimensional Anchor
 dimensionalPockets:dimensionalPocket, Dimensional Pocket
 dimensionalPockets:dimensionalPocketFrame, Dimensional Pocket Wall
@@ -5715,7 +5680,7 @@ extracells:hardmedrive, Blast resistant ME Drive [WIP]
 extracells:vibrantchamberfluid, Fluid Vibration Chamber
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
-ExtraUtilities:endConstructor:0, QED (Quail Eating Ducks)
+ExtraUtilities:endConstructor:0, QED (Quantum Ender Diviner)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -6194,7 +6159,6 @@ IronChest:BlockIronChest:4, Silver Chest
 IronChest:BlockIronChest:5, Crystal Chest
 IronChest:BlockIronChest:6, Obsidian Chest
 IronChest:BlockIronChest:7, DirtChest 9000!
-JABBA:barrel, Better Barrel
 lootbags:loot_recycler, Loot Recycler
 malisisadvert:advertBlock, Advert
 NetherOres:tile.netherores.ore.0:0, Nether Coal Ore
@@ -6267,7 +6231,7 @@ NuclearCraft:emptyCoolerBlock, Empty Reactor Cooler
 NuclearCraft:waterCoolerBlock, Water Reactor Cooler
 NuclearCraft:cryotheumCoolerBlock, Cryotheum Reactor Cooler
 NuclearCraft:redstoneCoolerBlock, Redstone Reactor Cooler
-NuclearCraft:enderiumCoolerBlock, Enderium Reactor Cooler
+NuclearCraft:enderiumCoolerBlock, Resonant Reactor Cooler
 NuclearCraft:glowstoneCoolerBlock, Glowstone Reactor Cooler
 NuclearCraft:coolantCoolerBlock, Coolant Reactor Cooler
 NuclearCraft:heliumCoolerBlock, Liquid Helium Reactor Cooler
@@ -6336,8 +6300,8 @@ NuclearCraft:heliumExtractorIdle, Liquid Helium Extractor
 NuclearCraft:heliumExtractorActive, Liquid Helium Extractor
 NuclearCraft:assemblerIdle, Assembler
 NuclearCraft:assemblerActive, Assembler
-NuclearCraft:recyclerIdle, Fuel Recycler
-NuclearCraft:recyclerActive, Fuel Recycler
+NuclearCraft:recyclerIdle, Reprocessing Plant
+NuclearCraft:recyclerActive, Reprocessing Plant
 NuclearCraft:steamGenerator, Steam Generator
 NuclearCraft:steamDecompressor, Steam Decompressor
 NuclearCraft:denseSteamDecompressor, Dense Steam Decompressor
@@ -6392,14 +6356,14 @@ OpenComputers:waypoint:0, Waypoint
 OpenComputers:endstone:0, End Stone
 OpenComputers:netSplitter:0, Net Splitter
 OpenComputers:transposer:0, Transposer
+OpenAutomation:laserEnergiser, Laser Energiser (Solids)
+OpenAutomation:laserEnergiserXP, tile.openautomation.laserEnergiserXP.name
+OpenAutomation:laserEnergisableEmitter, Energy Laser Emitter (Energisable)
 OpenAutomation:energyLaserEmitter, Energy Laser Emitter
 OpenAutomation:playerLaserEmitter, Human Laser Emitter
 OpenAutomation:laserReceiver, Laser Receptor
 OpenAutomation:laserMirror, Mirror (Laser)
 OpenAutomation:laserSplitter, Double Mirror (Laser)
-OpenAutomation:laserEnergiser, Laser Energiser (Solids)
-OpenAutomation:laserEnergiserXP, tile.openautomation.laserEnergiserXP.name
-OpenAutomation:laserEnergisableEmitter, Energy Laser Emitter (Energisable)
 OpenBlocks:ladder, Jaded Ladder
 OpenBlocks:guide, Building Guide
 OpenBlocks:builder_guide, Enhanced Building Guide
@@ -6489,13 +6453,16 @@ OpenPeripheral:glassesbridge, Terminal Glasses Bridge
 OpenPeripheral:pim, PIM
 OpenPeripheral:sensor, Sensor
 OpenPeripheral:selector, Item Selector
-OpenPeripheral:peripheralproxy, Peripheral Proxy
 OpenPeripheral:ticketmachine, Ticket Machine
+OpenPeripheral:peripheralproxy, Peripheral Proxy
 fodc:oreConvTable, Ore Conversion Table
 fodc:oreAutoconverter, Automatic Ore Converter
 playerinterfacemod:pl_interface, Player Interface
 PracticalLogistics:Hammer, Forging Hammer
 PracticalLogistics:Hammer_Air, Forging Hammer
+PracticalLogistics:SapphireOre, Sapphire Ore
+PracticalLogistics:DisplayScreen, tile.DisplayScreen.name
+PracticalLogistics:DataCable, Data Cable
 minecraft:record_13, Music Disc
 minecraft:record_cat, Music Disc
 minecraft:record_blocks, Music Disc
@@ -6508,9 +6475,6 @@ minecraft:record_strad, Music Disc
 minecraft:record_ward, Music Disc
 minecraft:record_11, Music Disc
 minecraft:record_wait, Music Disc
-PracticalLogistics:SapphireOre, Sapphire Ore
-PracticalLogistics:DisplayScreen, tile.DisplayScreen.name
-PracticalLogistics:DataCable, Data Cable
 PracticalLogistics:MultiCable, Channelled Cable
 PracticalLogistics:Node, Node
 PracticalLogistics:EntityNode, Entity Node
@@ -6620,7 +6584,6 @@ RefinedRelocation:sortingIronChest:4, Sorting Silver Chest
 RefinedRelocation:sortingIronChest:5, Sorting Crystal Chest
 RefinedRelocation:sortingIronChest:6, Sorting Obsidian Chest
 RefinedRelocation:sortingIronChest:7, DirtChest 9001!
-RefinedRelocation:sortingBarrel, Sorting Barrel
 RefinedRelocation:sortingAlchemicalChest:0, Sorting Alchemical Chest (Deprecated)
 RefinedRelocation:sortingAlchemicalChest:1, Sorting Alchemical Chest (Deprecated)
 RefinedRelocation:sortingAlchemicalChest:2, Sorting Alchemical Chest (Deprecated)
@@ -7464,11 +7427,11 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Apatite
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Copper
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tin
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Bronze
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Nether Star Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Log
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Planks
@@ -9054,7 +9017,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Empty Reactor Cooler
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Water Reactor Cooler
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Cryotheum Reactor Cooler
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Redstone Reactor Cooler
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Enderium Reactor Cooler
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Resonant Reactor Cooler
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Glowstone Reactor Cooler
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Coolant Reactor Cooler
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Liquid Helium Reactor Cooler
@@ -12698,64 +12661,6 @@ deepresonance:radiationSuit0, Radiation Suit Helmet (WIP)
 deepresonance:radiationSuit1, Radiation Suit Chestplate (WIP)
 deepresonance:radiationSuit2, Radiation Suit Leggings (WIP)
 deepresonance:radiationSuit3, Radiation Suit Boots (WIP)
-DefenseTech:poisonPowder, Poison Powder
-DefenseTech:antidote, Antidote
-DefenseTech:signalDisrupter, Signal Disrupter
-DefenseTech:tracker, Tracker
-DefenseTech:missile:13, Thermobaric Missile
-DefenseTech:missile:8, Fragmentation Missile
-DefenseTech:missile:17, Exothermic Missile
-DefenseTech:missile:16, EMP Missile
-DefenseTech:missile:25, Anti-Ballistic Missile
-DefenseTech:missile:26, Cluster Missile
-DefenseTech:missile:27, Nuclear Cluster Missile
-DefenseTech:missile:20, Hypersonic Missile
-DefenseTech:missile:6, Repulsive Missile
-DefenseTech:missile:1, Shrapnel Missile
-DefenseTech:missile:4, Chemical Missile
-DefenseTech:missile:0, Conventional Missile
-DefenseTech:missile:21, Antimatter Missile
-DefenseTech:missile:24, Homing Missile
-DefenseTech:missile:5, Anvil Missile
-DefenseTech:missile:2, Incendiary Missile
-DefenseTech:missile:9, Contagious Missile
-DefenseTech:missile:12, Rejuvenation Missile
-DefenseTech:missile:19, Anti-Gravitational Missile
-DefenseTech:missile:11, Breaching Missile
-DefenseTech:missile:10, Sonic Missile
-DefenseTech:missile:23, Missile Module
-DefenseTech:missile:7, Attractive Missile
-DefenseTech:missile:3, Debilitation Missile
-DefenseTech:missile:18, Endothermic Missile
-DefenseTech:missile:15, Nuclear Missile
-DefenseTech:missile:22, Red Matter Missile
-DefenseTech:defuser, Defuser
-DefenseTech:radarGun, Radar Gun
-DefenseTech:remoteDetonator, Remote Detonator
-DefenseTech:laserDesignator, Laser Designator
-DefenseTech:rocketLauncher, Rocket Launcher
-DefenseTech:grenade:0, Conventional Grenade
-DefenseTech:grenade:1, Shrapnel Grenade
-DefenseTech:grenade:2, Incendiary Grenade
-DefenseTech:grenade:3, Debilitation Grenade
-DefenseTech:grenade:4, Chemical Grenade
-DefenseTech:grenade:5, Anvil Grenade
-DefenseTech:grenade:6, Repulsive Grenade
-DefenseTech:grenade:7, Attractive Grenade
-DefenseTech:minecart:0, Explosive Cart
-DefenseTech:minecart:1, Shrapnel Minecart
-DefenseTech:minecart:2, Incendiary Minecart
-DefenseTech:minecart:3, Debilitation Minecart
-DefenseTech:minecart:4, Chemical Minecart
-DefenseTech:minecart:5, Anvil Minecart
-DefenseTech:minecart:6, Repulsive Minecart
-DefenseTech:minecart:7, Attractive Minecart
-DefenseTech:minecart:8, Fragmentation Minecart
-DefenseTech:minecart:9, Contagious Minecart
-DefenseTech:minecart:10, Sonic Minecart
-DefenseTech:minecart:11, Breaching Minecart
-DefenseTech:minecart:12, Rejuvenation Minecart
-DefenseTech:minecart:13, Thermobaric Minecart
 DescriptionTags:item.null:0, Lore Tag
 DescriptionTags:item.null:1, Description Tag
 DescriptionTags:item.null:2, Warrior Tag
@@ -13655,38 +13560,6 @@ IronChest:diamondCrystalUpgrade, Diamond to Crystal Chest Upgrade
 IronChest:woodIronUpgrade, Wood to Iron Chest Upgrade
 IronChest:woodCopperUpgrade, Wood to Copper Chest Upgrade
 IronChest:diamondObsidianUpgrade, Diamond to Obsidian Chest Upgrade
-JABBA:upgradeStructural:0, item.upgrade.structural.1.name
-JABBA:upgradeStructural:1, item.upgrade.structural.2.name
-JABBA:upgradeStructural:2, item.upgrade.structural.3.name
-JABBA:upgradeStructural:3, item.upgrade.structural.4.name
-JABBA:upgradeStructural:4, item.upgrade.structural.5.name
-JABBA:upgradeStructural:5, item.upgrade.structural.6.name
-JABBA:upgradeStructural:6, item.upgrade.structural.7.name
-JABBA:upgradeCore:0, Storage upgrade
-JABBA:upgradeCore:1, BSpace upgrade
-JABBA:upgradeCore:2, Redstone upgrade
-JABBA:upgradeCore:3, Hopper upgrade
-JABBA:upgradeCore:4, Storage upgrade x3
-JABBA:upgradeCore:5, Storage upgrade x9
-JABBA:upgradeCore:6, Storage upgrade x27
-JABBA:upgradeCore:7, Void upgrade
-JABBA:upgradeCore:8, Storage upgrade x81
-JABBA:upgradeCore:9, Storage upgrade x243
-JABBA:upgradeCore:10, Creative upgrade
-JABBA:upgradeSide:0, Sticker
-JABBA:upgradeSide:1, Hopper facade
-JABBA:upgradeSide:2, Redstone facade
-JABBA:mover, Dolly
-JABBA:moverDiamond, Diamond dolly
-JABBA:hammer:0, Barrel Hammer
-JABBA:hammer:1, Barrel Hammer(Resonating)
-JABBA:hammer:2, Barrel Hammer(Redstone)
-JABBA:hammer:3, Barrel Hammer(Hopping)
-JABBA:hammer:4, Barrel Hammer(Storage)
-JABBA:hammer:5, Barrel Hammer(Structural)
-JABBA:hammer:6, Barrel Hammer(Void)
-JABBA:hammer:7, Barrel Hammer(Creative)
-JABBA:tuningFork, B-Space tuning fork
 lootbags:lootbag:0, §fCommon Lootbag
 lootbags:lootbag:1, §aUncommon Lootbag
 lootbags:lootbag:2, §9Rare Lootbag
@@ -16381,25 +16254,25 @@ ThermalDynamics:cover:0, Rock Hive Cover
 ThermalDynamics:cover:0, Nether Hive Cover
 ThermalDynamics:cover:0, Marble Hive Cover
 ThermalDynamics:cover:0, Fence Gate Cover
-ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
-ThermalDynamics:cover:0, Aer Imbued Fire Cover
-ThermalDynamics:cover:0, Aqua Imbued Fire Cover
-ThermalDynamics:cover:0, Terra Imbued Fire Cover
-ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
-ThermalDynamics:cover:0, Ignis Imbued Fire Cover
 ThermalDynamics:cover:0, tile.gaseousLight.name Cover
-ThermalDynamics:cover:0, Ordo Imbued Fire Cover
 ThermalDynamics:cover:0, tile.nitorGas.name Cover
 ThermalDynamics:cover:0, Bedrock Portal Cover
-ThermalDynamics:cover:0, Paving Stair of Travel Cover
-ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Aer Imbued Fire Cover
+ThermalDynamics:cover:0, Ordo Imbued Fire Cover
+ThermalDynamics:cover:0, Terra Imbued Fire Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
+ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
+ThermalDynamics:cover:0, Ignis Imbued Fire Cover
+ThermalDynamics:cover:0, Aqua Imbued Fire Cover
+ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Paving Stair of Travel Cover
 ThermalDynamics:cover:0, Paving Slab of Travel Cover
 ThermalDynamics:cover:0, Paving Slab of Travel Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
 ThermalDynamics:cover:0, Thaumic Cake Cover
 ThermalDynamics:cover:0, Umbral Rose Cover
 ThermalDynamics:cover:0, Nether Star Block Cover
@@ -18733,7 +18606,7 @@ ThermalDynamics:cover:0, Empty Reactor Cooler Cover
 ThermalDynamics:cover:0, Water Reactor Cooler Cover
 ThermalDynamics:cover:0, Cryotheum Reactor Cooler Cover
 ThermalDynamics:cover:0, Redstone Reactor Cooler Cover
-ThermalDynamics:cover:0, Enderium Reactor Cooler Cover
+ThermalDynamics:cover:0, Resonant Reactor Cooler Cover
 ThermalDynamics:cover:0, Glowstone Reactor Cooler Cover
 ThermalDynamics:cover:0, Coolant Reactor Cooler Cover
 ThermalDynamics:cover:0, Liquid Helium Reactor Cooler Cover

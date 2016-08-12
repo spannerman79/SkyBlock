@@ -5,6 +5,7 @@
       "icon": "minecraft:diamond_axe",
       "toollist": [
         "NuclearCraft:dUPaxel",
+        "NuclearCraft:toughAlloyPaxel",
         "appliedenergistics2:item.ToolCertusQuartzAxe",
         "appliedenergistics2:item.ToolNetherQuartzAxe",
         "minecraft:diamond_axe",
@@ -167,6 +168,7 @@
         "exnihilo:tin_sand",
         "minecraft:cobblestone",
         "minecraft:gravel",
+        "minecraft:netherrack",
         "minecraft:sand"
       ]
     },
@@ -196,6 +198,7 @@
       "icon": "minecraft:diamond_pickaxe",
       "toollist": [
         "NuclearCraft:dUPaxel",
+        "NuclearCraft:toughAlloyPaxel",
         "TConstruct:pickaxe",
         "appliedenergistics2:item.ToolCertusQuartzPickaxe",
         "appliedenergistics2:item.ToolNetherQuartzPickaxe",
@@ -396,6 +399,7 @@
         "aobd:orebushZinc/0",
         "appliedenergistics2:tile.OreQuartz/0",
         "appliedenergistics2:tile.OreQuartzCharged/0",
+        "chisel:marble",
         "deepresonance:oreResonating/0",
         "foundry:blockFoundryOre/0",
         "foundry:blockFoundryOre/1",
@@ -425,6 +429,7 @@
       "name": "Shears",
       "icon": "minecraft:shears",
       "toollist": [
+        "Railcraft:tool.steel.shears",
         "minecraft:shears"
       ],
       "blocklist": [
