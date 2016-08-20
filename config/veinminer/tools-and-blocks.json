@@ -6,6 +6,8 @@
       "toollist": [
         "NuclearCraft:dUPaxel",
         "NuclearCraft:toughAlloyPaxel",
+        "RArm:ItemAxeGelidEnderium",
+        "RedstoneArsenal:tool.axeFlux",
         "appliedenergistics2:item.ToolCertusQuartzAxe",
         "appliedenergistics2:item.ToolNetherQuartzAxe",
         "minecraft:diamond_axe",
@@ -67,6 +69,7 @@
         "Natura:Rare Tree/1",
         "Natura:Rare Tree/2",
         "Natura:Rare Tree/3",
+        "Natura:bloodwood",
         "Natura:floraleaves",
         "Natura:floraleavesnocolor",
         "Natura:redwood/1",
@@ -103,6 +106,7 @@
       ],
       "blocklist": [
         "MineFactoryReloaded:rubberwood.leaves",
+        "exnihilo:infested_leaves",
         "minecraft:leaves",
         "minecraft:leaves2",
         "minecraft:tallgrass",
@@ -199,6 +203,7 @@
       "toollist": [
         "NuclearCraft:dUPaxel",
         "NuclearCraft:toughAlloyPaxel",
+        "RedstoneArsenal:tool.pickaxeFlux",
         "TConstruct:pickaxe",
         "appliedenergistics2:item.ToolCertusQuartzPickaxe",
         "appliedenergistics2:item.ToolNetherQuartzPickaxe",
@@ -222,6 +227,7 @@
         "Mekanism:OreBlock/0",
         "Mekanism:OreBlock/1",
         "Mekanism:OreBlock/2",
+        "Natura:Cloud",
         "NetherOres:tile.netherores.ore.0/0",
         "NetherOres:tile.netherores.ore.0/1",
         "NetherOres:tile.netherores.ore.0/2",
@@ -407,7 +413,9 @@
         "foundry:blockFoundryOre/3",
         "foundry:blockFoundryOre/4",
         "foundry:blockFoundryOre/5",
+        "magicalcrops:MinicioOre",
         "magicalcrops:MinicioOre/0",
+        "magicalcrops:MinicioOreNether",
         "minecraft:coal_ore",
         "minecraft:cobblestone_wall",
         "minecraft:diamond_ore",
@@ -430,6 +438,7 @@
       "icon": "minecraft:shears",
       "toollist": [
         "Railcraft:tool.steel.shears",
+        "RedstoneArsenal:tool.wrenchFlux",
         "minecraft:shears"
       ],
       "blocklist": [
@@ -439,6 +448,7 @@
         "Natura:Rare Leaves",
         "Natura:floraleaves",
         "Natura:floraleavesnocolor",
+        "Thaumcraft:blockMagicalLeaves",
         "TwilightForest:tile.TFLeaves",
         "TwilightForest:tile.TFMagicLeaves",
         "minecraft:deadbush",
@@ -455,6 +465,7 @@
       "icon": "minecraft:diamond_shovel",
       "toollist": [
         "NuclearCraft:dUPaxel",
+        "RArm:ItemShovelGelidEnderium",
         "appliedenergistics2:item.ToolCertusQuartzSpade",
         "appliedenergistics2:item.ToolNetherQuartzSpade",
         "minecraft:diamond_shovel",
