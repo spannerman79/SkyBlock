@@ -487,8 +487,8 @@ minecraft:fish:3, Pufferfish
 minecraft:cooked_fished:0, Cooked Fish
 minecraft:cooked_fished:1, Cooked Salmon
 minecraft:dye:0, Ink Sac
-minecraft:dye:1, Red Dye
-minecraft:dye:2, Green Dye
+minecraft:dye:1, Rose Red
+minecraft:dye:2, Cactus Green
 minecraft:dye:3, Cocoa Beans
 minecraft:dye:4, Lapis Lazuli
 minecraft:dye:5, Purple Dye
@@ -497,7 +497,7 @@ minecraft:dye:7, Light Gray Dye
 minecraft:dye:8, Gray Dye
 minecraft:dye:9, Pink Dye
 minecraft:dye:10, Lime Dye
-minecraft:dye:11, Yellow Dye
+minecraft:dye:11, Dandelion Yellow
 minecraft:dye:12, Light Blue Dye
 minecraft:dye:13, Magenta Dye
 minecraft:dye:14, Orange Dye
@@ -554,10 +554,6 @@ minecraft:potion:8230, Potion of Night Vision
 minecraft:potion:8262, Potion of Night Vision
 minecraft:potion:16422, Splash Potion of Night Vision
 minecraft:potion:16454, Splash Potion of Night Vision
-minecraft:potion:8231, Potion of Nausea
-minecraft:potion:8263, Potion of Nausea
-minecraft:potion:16423, Splash Potion of Nausea
-minecraft:potion:16455, Splash Potion of Nausea
 minecraft:potion:8232, Potion of Weakness
 minecraft:potion:8264, Potion of Weakness
 minecraft:potion:16424, Splash Potion of Weakness
@@ -572,10 +568,6 @@ minecraft:potion:8234, Potion of Slowness
 minecraft:potion:8266, Potion of Slowness
 minecraft:potion:16426, Splash Potion of Slowness
 minecraft:potion:16458, Splash Potion of Slowness
-minecraft:potion:8235, Potion of Decay
-minecraft:potion:8267, Potion of Decay
-minecraft:potion:16427, Splash Potion of Decay
-minecraft:potion:16459, Splash Potion of Decay
 minecraft:potion:8268, Potion of Harming
 minecraft:potion:8236, Potion of Harming
 minecraft:potion:16460, Splash Potion of Harming
@@ -622,16 +614,8 @@ minecraft:spawn_egg:98, Spawn Ocelot
 minecraft:spawn_egg:100, Spawn Horse
 minecraft:spawn_egg:120, Spawn Villager
 minecraft:spawn_egg:301, Spawn Royal
-minecraft:spawn_egg:5, Spawn Enderminy
-minecraft:spawn_egg:6, Spawn Concussion Creeper
-minecraft:spawn_egg:7, Spawn Fallen Knight
-minecraft:spawn_egg:23, Spawn Fallen Steed
-minecraft:spawn_egg:24, Spawn Wither Witch
-minecraft:spawn_egg:25, Spawn Wither Cat
-minecraft:spawn_egg:26, Spawn Dire Wolf
-minecraft:spawn_egg:27, Spawn Khndrel Keght
-minecraft:spawn_egg:29, Spawn Nuclear Monster
-minecraft:spawn_egg:30, Spawn Paul
+minecraft:spawn_egg:5, Spawn Nuclear Monster
+minecraft:spawn_egg:6, Spawn Paul
 minecraft:experience_bottle, Bottle o' Enchanting
 minecraft:fire_charge, Fire Charge
 minecraft:writable_book, Book and Quill
@@ -2739,44 +2723,44 @@ ComputerCraft:CC-TurtleAdvanced:0, Advanced Digging Turtle
 ComputerCraft:CC-TurtleAdvanced:0, Advanced Mining Turtle
 ComputerCraft:CC-TurtleAdvanced:0, Advanced Felling Turtle
 ComputerCraft:CC-TurtleAdvanced:0, Advanced Farming Turtle
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
+ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
+ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:golemConnector, Golem Connector
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:magnet:0, Kinetic Attractor
+ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:fireEarth, Terra Imbued Fire
+ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
+ThaumicTinkerer:travelStairs, Paving Stair of Travel
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
+ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
+ThaumicTinkerer:aspectAnalyzer, Aspectalyzer
+ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:dislocator, Transvector Dislocator
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:magnet:0, Kinetic Attractor
-ThaumicTinkerer:magnet:1, Corporeal Attractor
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:travelSlab:0, Paving Slab of Travel
-ThaumicTinkerer:travelSlabFull:0, Paving Slab of Travel
-ThaumicTinkerer:golemConnector, Golem Connector
-ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:aspectAnalyzer, Aspectalyzer
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
-ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
-ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:travelStairs, Paving Stair of Travel
-ThaumicTinkerer:platform, Ethereal Platform
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:wardSlab:0, tile.wardSlab.name
-ThaumicTinkerer:wardSlabFull:0, tile.wardSlab.name
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:repairer, Thaumic Restorer
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
-ThaumicTinkerer:forcefield, Forcefield
 ForbiddenMagic:ArcaneCake, Thaumic Cake
 ForbiddenMagic:WrathCage, Wrath Cage
 ForbiddenMagic:InkFlower, Umbral Rose
@@ -3179,6 +3163,11 @@ harvestcraft:pamlamingtonCake, Lamington
 harvestcraft:pampavlovaCake, Pavlova
 harvestcraft:pamholidayCake, Holiday Cake
 harvestcraft:pampumpkincheeseCake, Pumpkin Cheese Cake
+chancecubes:Chance_Cube, Chance Cube
+chancecubes:Chance_Icosahedron, Chance Icosahedron
+chancecubes:Giant_Chance_Cube, Giant Chance Cube
+chancecubes:Compact_Giant_Chance_Cube, Compact Giant Chance Cube
+chancecubes:Cube_Dispenser, Chance Cube Dispenser
 EE3:calcinator, Calciner
 EE3:aludel, Aludel Base
 EE3:glassBell, Glass Bell
@@ -4720,7 +4709,6 @@ chisel:woolen_clay:12, Woolen Clay
 chisel:woolen_clay:13, Woolen Clay
 chisel:woolen_clay:14, Woolen Clay
 chisel:woolen_clay:15, Woolen Clay
-CraftHeraldry:blockHeraldry, tile.blockHeraldry.name
 craftingslabs:crafting_slab, Crafting Slab
 deepresonance:oreResonating, Resonating Ore
 deepresonance:blockResonating, Resonating Plate Block
@@ -4956,22 +4944,6 @@ enderioaddons:rlever300, Self-reseting lever (5 Minutes)
 enderRift:blockEnderRift, Ender-Rift Core
 enderRift:blockStructureInvisible, Ender-Rift Structure
 enderRift:blockStructureCorner, Ender-Rift Structure (Corner)
-EnderTanks:blockEnderTank:0, Ender Tank
-EnderTanks:blockEnderTank:273, Ender Tank
-EnderTanks:blockEnderTank:546, Ender Tank
-EnderTanks:blockEnderTank:819, Ender Tank
-EnderTanks:blockEnderTank:1092, Ender Tank
-EnderTanks:blockEnderTank:1365, Ender Tank
-EnderTanks:blockEnderTank:1638, Ender Tank
-EnderTanks:blockEnderTank:1911, Ender Tank
-EnderTanks:blockEnderTank:2184, Ender Tank
-EnderTanks:blockEnderTank:2457, Ender Tank
-EnderTanks:blockEnderTank:2730, Ender Tank
-EnderTanks:blockEnderTank:3003, Ender Tank
-EnderTanks:blockEnderTank:3276, Ender Tank
-EnderTanks:blockEnderTank:3549, Ender Tank
-EnderTanks:blockEnderTank:3822, Ender Tank
-EnderTanks:blockEnderTank:4095, Ender Tank
 EnderTech:endertech.enderTankPart:0, Ender Tank Frame
 EnderTech:endertech.enderTankPart:6, Ender Tank Valve
 EnderTech:endertech.enderTankPart:7, Ender Tank Energy Input
@@ -4983,9 +4955,6 @@ EnderTech:chargePad:1, Redstone Charge Pad
 EnderTech:healthPad:0, Creative Health Pad
 EnderTech:healthPad:2, Resonant Health Pad
 EnderTech:healthPad:1, Redstone Health Pad
-EnderZoo:blockConfusingCharge, Confusing Charge
-EnderZoo:blockEnderCharge, Ender Charge
-EnderZoo:blockConcussionCharge, Concussion Charge
 enhancedportals:frame:0, Portal Frame
 enhancedportals:frame:1, Portal Controller
 enhancedportals:frame:2, Redstone Interface
@@ -5547,8 +5516,6 @@ advgenerators:syngas, Syngas
 GregsLighting:carbideFloodlight, Carbide Floodlight
 GregsLighting:floodlightBeam, tile.gcewing_lighting:floodlightBeam.name
 GregsLighting:floodlight, Floodlight
-holovm:vmbase, Holographic Projector
-holovm:vmadv, Advanced Holographic Projector
 HopperDuctMod:hopperDuct, Hopper Duct
 HopperDuctMod:gratedHopper, Grated Hopper
 ImmibisPeripherals:peripherals:0, RFID Writer
@@ -5875,6 +5842,8 @@ PracticalLogistics:EntityNode, Entity Node
 PracticalLogistics:InfoReader, Info Reader
 PracticalLogistics:InventoryReader, Inventory Reader
 PracticalLogistics:FluidReader, Fluid Reader
+PracticalLogistics:EnergyReader, Energy Reader
+PracticalLogistics:DataReceiver, Data Receiver
 minecraft:record_13, Music Disc
 minecraft:record_cat, Music Disc
 minecraft:record_blocks, Music Disc
@@ -5887,8 +5856,6 @@ minecraft:record_strad, Music Disc
 minecraft:record_ward, Music Disc
 minecraft:record_11, Music Disc
 minecraft:record_wait, Music Disc
-PracticalLogistics:EnergyReader, Energy Reader
-PracticalLogistics:DataReceiver, Data Receiver
 PracticalLogistics:DataEmitter, Data Emitter
 PracticalLogistics:RedstoneSignaller_ON, Redstone Signaller
 PracticalLogistics:RedstoneSignaller_OFF, Redstone Signaller
@@ -6818,11 +6785,11 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Apatite
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Copper
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Tin
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Bronze
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Smokey Quartz Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Paving Slab of Travel
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Nether Star Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Log
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tainted Planks
@@ -6936,6 +6903,7 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.sink.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.sink.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Salt Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Compressed Salt Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Compact Giant Chance Cube
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chalk
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Alchemical Coal
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Mobius Fuel
@@ -8064,9 +8032,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Admin Dislocator
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Reinforced Obsidian
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.blockConduitFacade.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Electrical Steel Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Confusing Charge
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Ender Charge
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Concussion Charge
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Bordered Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Ender-Infused Metal
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dimensional Bridge Stabilizer (Empty)
@@ -11831,6 +11796,13 @@ harvestcraft:peaandhamsoupItem, Pea and Ham Soup
 harvestcraft:potatoandleeksoupItem, Potato and Leek Soup
 harvestcraft:yorkshirepuddingItem, Yorkshire Pudding
 harvestcraft:toadintheholeItem, Toad in the Hole
+chancecubes:chancePendantTier1, Tier 1 Chance Pendant
+chancecubes:chancePendantTier2, Tier 2 Chance Pendant
+chancecubes:chancePendantTier3, Tier 3 Chance Pendant
+chancecubes:silkTouchPendant, Silk Touch Chance Pendant
+chancecubes:creativePendant, Creative Chance Pendant
+chancecubes:rewardSelectorPendant, Reward Selector Pendant
+chancecubes:scanner, Chance Cube Scanner
 ChestTransporter:chesttransporter, Wooden Chest Transporter
 ChestTransporter:chesttransporter_iron, Iron Chest Transporter
 ChestTransporter:chesttransporter_gold, Golden Chest Transporter
@@ -12007,9 +11979,6 @@ chisel:cloudinabottle, Cloud In A Bottle
 chisel:smashingrock, Smashing Rock
 claybucket:unfiredClaybucket, Unfired Clay Bucket
 claybucket:claybucket, Clay Bucket
-CraftHeraldry:itemHeraldry:0, Heraldic Scroll
-CraftHeraldry:itemHeraldry:1, Heraldic Banner
-CraftHeraldry:itemHeraldry:2, Heraldic Wall Banner
 deepresonance:deepResonanceManualItem, Deep Resonance Manual
 deepresonance:radiationMonitorItem, Radiation Monitor
 deepresonance:resonatingPlateItem, Resonating Plate
@@ -12462,38 +12431,9 @@ enderioaddons:itemMachineParts:28, Food-grade coated Chassis Grill
 enderioaddons:itemMachineParts:29, Fortune Cookie
 enderioaddons:itemMachineParts:30, You cheated this in, didn't you?
 enderRift:itemEnderRift, item.enderRift.itemEnderRift.name
-EnderTanks:itemEnderBucket:0, Ender Bucket
-EnderTanks:itemEnderBucket:273, Ender Bucket
-EnderTanks:itemEnderBucket:546, Ender Bucket
-EnderTanks:itemEnderBucket:819, Ender Bucket
-EnderTanks:itemEnderBucket:1092, Ender Bucket
-EnderTanks:itemEnderBucket:1365, Ender Bucket
-EnderTanks:itemEnderBucket:1638, Ender Bucket
-EnderTanks:itemEnderBucket:1911, Ender Bucket
-EnderTanks:itemEnderBucket:2184, Ender Bucket
-EnderTanks:itemEnderBucket:2457, Ender Bucket
-EnderTanks:itemEnderBucket:2730, Ender Bucket
-EnderTanks:itemEnderBucket:3003, Ender Bucket
-EnderTanks:itemEnderBucket:3276, Ender Bucket
-EnderTanks:itemEnderBucket:3549, Ender Bucket
-EnderTanks:itemEnderBucket:3822, Ender Bucket
-EnderTanks:itemEnderBucket:4095, Ender Bucket
 EnderTech:endertech.exchanger:0, Creative Exchanger
 EnderTech:endertech.exchanger:1, Redstone Exchanger
 EnderTech:endertech.exchanger:2, Resonant Exchanger
-EnderZoo:enderZooIcon, item.enderZooIcon.name
-EnderZoo:itemSpawnEggEnderZoo:0, Spawn Enderminy
-EnderZoo:itemSpawnEggEnderZoo:1, Spawn Concussion Creeper
-EnderZoo:itemSpawnEggEnderZoo:2, Spawn Fallen Knight
-EnderZoo:itemSpawnEggEnderZoo:3, Spawn Fallen Steed
-EnderZoo:itemSpawnEggEnderZoo:4, Spawn Wither Witch
-EnderZoo:itemSpawnEggEnderZoo:5, Spawn Wither Cat
-EnderZoo:itemSpawnEggEnderZoo:6, Spawn Dire Wolf
-EnderZoo:itemSpawnEggEnderZoo:7, Spawn Khndrel Keght
-EnderZoo:witheringDust, Withering Dust
-EnderZoo:confusingDust, Confusing Powder
-EnderZoo:enderFragment, Ender Fragment
-EnderZoo:guardiansBow, Guardians Bow
 enhancedportals:wrench, Wrench
 enhancedportals:nanobrush, Nanobrush
 enhancedportals:glasses, Glasses
@@ -12703,7 +12643,6 @@ ExtraUtilities:temporalHoe, Reversing Hoe
 ExtraUtilities:sonar_goggles, Sonar Goggles
 ExtraUtilities:watering_can, Watering Can
 ExtraUtilities:scanner, Portable Scanner
-ExtraUtilities:golden_bag, Golden Bag of Holding
 ExtraUtilities:bedrockiumIngot, Bedrockium Ingot
 FlatSigns:item.sponge.wipe, Sponge Wipe
 gadomancy:ItemTransformationFocus, [WIP] Wand Focus: Transformation
@@ -15537,25 +15476,25 @@ ThermalDynamics:cover:0, Rock Hive Cover
 ThermalDynamics:cover:0, Nether Hive Cover
 ThermalDynamics:cover:0, Marble Hive Cover
 ThermalDynamics:cover:0, Fence Gate Cover
+ThermalDynamics:cover:0, Ordo Imbued Fire Cover
+ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, Paving Slab of Travel Cover
+ThermalDynamics:cover:0, Ignis Imbued Fire Cover
+ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Terra Imbued Fire Cover
+ThermalDynamics:cover:0, Aqua Imbued Fire Cover
+ThermalDynamics:cover:0, tile.nitorGas.name Cover
+ThermalDynamics:cover:0, Paving Stair of Travel Cover
+ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
+ThermalDynamics:cover:0, Bedrock Portal Cover
+ThermalDynamics:cover:0, Aer Imbued Fire Cover
+ThermalDynamics:cover:0, tile.gaseousLight.name Cover
 ThermalDynamics:cover:0, Block of Smokey Quartz Cover
 ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
-ThermalDynamics:cover:0, Bedrock Portal Cover
-ThermalDynamics:cover:0, Ignis Imbued Fire Cover
-ThermalDynamics:cover:0, Paving Slab of Travel Cover
-ThermalDynamics:cover:0, Paving Slab of Travel Cover
-ThermalDynamics:cover:0, tile.nitorGas.name Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Terra Imbued Fire Cover
-ThermalDynamics:cover:0, Paving Stair of Travel Cover
-ThermalDynamics:cover:0, Aer Imbued Fire Cover
-ThermalDynamics:cover:0, Aqua Imbued Fire Cover
-ThermalDynamics:cover:0, tile.gaseousLight.name Cover
-ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
-ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
-ThermalDynamics:cover:0, Ordo Imbued Fire Cover
-ThermalDynamics:cover:0, Perditio Imbued Fire Cover
 ThermalDynamics:cover:0, Thaumic Cake Cover
 ThermalDynamics:cover:0, Umbral Rose Cover
 ThermalDynamics:cover:0, Nether Star Block Cover
@@ -15880,6 +15819,7 @@ ThermalDynamics:cover:0, Lamington Cover
 ThermalDynamics:cover:0, Pavlova Cover
 ThermalDynamics:cover:0, Holiday Cake Cover
 ThermalDynamics:cover:0, Pumpkin Cheese Cake Cover
+ThermalDynamics:cover:0, Compact Giant Chance Cube Cover
 ThermalDynamics:cover:0, Chalk Cover
 ThermalDynamics:cover:0, Block of Alchemical Coal Cover
 ThermalDynamics:cover:0, Block of Mobius Fuel Cover
@@ -17465,9 +17405,6 @@ ThermalDynamics:cover:0, Self-reseting lever (30 seconds) Cover
 ThermalDynamics:cover:0, Self-reseting lever (1 Minute) Cover
 ThermalDynamics:cover:0, Self-reseting lever (5 Minutes) Cover
 ThermalDynamics:cover:0, Ender-Rift Structure Cover
-ThermalDynamics:cover:0, Confusing Charge Cover
-ThermalDynamics:cover:0, Ender Charge Cover
-ThermalDynamics:cover:0, Concussion Charge Cover
 ThermalDynamics:cover:0, Bordered Quartz Cover
 ThermalDynamics:cover:0, Ender-Infused Metal Cover
 ThermalDynamics:cover:0, Dimensional Bridge Stabilizer (Empty) Cover
