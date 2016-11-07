@@ -29,6 +29,7 @@ recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:19>);
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<minecraft:coal:1>, [[<Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>], [<Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>], [<Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>]]);
 recipes.addShaped(<OpenComputers:item:4>.withTag({"oc:data": {"oc:fs.label": "openos"}, "oc:color": 2, display: {Name: "OpenOS (Operating System)"}, "oc:lootFactory": "OpenComputers:openos"}), [[<Avaritia:Resource_Block:1>, <Avaritia:Resource_Block:1>, <Avaritia:Resource_Block:1>], [<Avaritia:Resource_Block:1>, <OpenComputers:item:4>, <Avaritia:Resource_Block:1>], [<Avaritia:Resource_Block:1>, <Avaritia:Resource_Block:1>, <Avaritia:Resource_Block:1>]]);
 recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:19>, [[<magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>], [<magicalcrops:CertusQuartzEssence>, <EnderIO:itemMaterial>, <magicalcrops:CertusQuartzEssence>], [<magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>]]);
 
