@@ -95,7 +95,8 @@
         "minecraft:leaves",
         "minecraft:leaves2",
         "minecraft:log",
-        "minecraft:log2"
+        "minecraft:log2",
+        "minecraft:planks"
       ]
     },
     "crook": {
@@ -332,6 +333,7 @@
         "aobd:oreDustMagnesium/0",
         "aobd:oreDustMithril/0",
         "aobd:oreDustObsidian/0",
+        "aobd:oreDustShadow/0",
         "aobd:oreDustSteel/0",
         "aobd:oreDustThorium/0",
         "aobd:oreDustTitanium/0",
@@ -345,6 +347,7 @@
         "aobd:oreGravelMagnesium/0",
         "aobd:oreGravelMithril/0",
         "aobd:oreGravelObsidian/0",
+        "aobd:oreGravelShadow/0",
         "aobd:oreGravelSteel/0",
         "aobd:oreGravelThorium/0",
         "aobd:oreGravelTitanium/0",
@@ -358,6 +361,7 @@
         "aobd:oreNetherGravelMagnesium/0",
         "aobd:oreNetherGravelMithril/0",
         "aobd:oreNetherGravelObsidian/0",
+        "aobd:oreNetherGravelShadow/0",
         "aobd:oreNetherGravelSteel/0",
         "aobd:oreNetherGravelThorium/0",
         "aobd:oreNetherGravelTitanium/0",
@@ -371,6 +375,7 @@
         "aobd:oreSandMagnesium/0",
         "aobd:oreSandMithril/0",
         "aobd:oreSandObsidian/0",
+        "aobd:oreSandShadow/0",
         "aobd:oreSandSteel/0",
         "aobd:oreSandThorium/0",
         "aobd:oreSandTitanium/0",
@@ -390,6 +395,7 @@
         "aobd:orebushObsidian/0",
         "aobd:orebushOsmium/0",
         "aobd:orebushPlatinum/0",
+        "aobd:orebushShadow/0",
         "aobd:orebushSilver/0",
         "aobd:orebushSteel/0",
         "aobd:orebushThorium/0",
@@ -430,6 +436,9 @@
       "toollist": [
         "Railcraft:tool.steel.shears",
         "RedstoneArsenal:tool.wrenchFlux",
+        "ThermalFoundation:tool.shearsDiamond",
+        "ThermalFoundation:tool.shearsGold",
+        "ThermalFoundation:tool.shearsWood",
         "minecraft:shears"
       ],
       "blocklist": [
@@ -471,6 +480,7 @@
         "Natura:heatsand",
         "Natura:soil.tainted",
         "minecraft:clay",
+        "minecraft:dirt",
         "minecraft:gravel",
         "minecraft:soul_sand"
       ]
