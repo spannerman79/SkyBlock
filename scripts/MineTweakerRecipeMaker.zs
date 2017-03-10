@@ -28,7 +28,6 @@ recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:19>);
 //#MARKER ADD SHAPELESS
 recipes.addShapeless(<minecraft:spawn_egg:93>, [<excompressum:bait:4>, <excompressum:bait:4>, <excompressum:bait:4>, <excompressum:bait:4>]);
 recipes.addShapeless(<minecraft:spawn_egg:94>, [<excompressum:bait:6>, <excompressum:bait:6>, <excompressum:bait:6>, <excompressum:bait:6>]);
-recipes.addShapeless(<foundry:foundryIngot:6> * 9, [<ore:blockZinc>]);
 recipes.addShapeless(<ExtraPlanets:tier7Items:5> * 9, [<ore:blockCrystal>]);
 recipes.addShapeless(<ExtraPlanets:tier4Items:5> * 9, [<ore:blockCarbon>]);
 recipes.addShapeless(<ExtraPlanets:tier4Items:5> * 9, [<ore:blockCarbon>]);
@@ -37,6 +36,9 @@ recipes.addShapeless(<ExtraPlanets:tier5Items:5> * 9, [<ore:blockPalladium>]);
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<ExtraPlanets:tile.uranus:4>, [[<ExtraPlanets:tier7Items:5>, <ExtraPlanets:tier7Items:5>, <ExtraPlanets:tier7Items:5>], [<ExtraPlanets:tier7Items:5>, <ExtraPlanets:tier7Items:5>, <ExtraPlanets:tier7Items:5>], [<ExtraPlanets:tier7Items:5>, <ExtraPlanets:tier7Items:5>, <ExtraPlanets:tier7Items:5>]]);
+recipes.addShaped(<ExtraPlanets:tile.uranus:4>, [[<ore:ingotCrystal>, <ore:ingotCrystal>, <ore:ingotCrystal>], [<ore:ingotCrystal>, <ore:ingotCrystal>, <ExtraPlanets:tier7Items:5>], [<ore:ingotCrystal>, <ExtraPlanets:tier7Items:5>, <ExtraPlanets:tier7Items:5>]]);
+recipes.addShaped(<ExtraPlanets:tile.uranus:4>, [[<ore:ingotCrystal>, <ore:ingotCrystal>, <ore:ingotCrystal>], [<ExtraPlanets:tier7Items:5>, <ore:ingotCrystal>, <ore:ingotCrystal>], [<ore:ingotCrystal>, <ore:ingotCrystal>, <ore:ingotCrystal>]]);
 recipes.addShaped(<OpenComputers:item:4>.withTag({"oc:data": {"oc:fs.label": "openos"}, "oc:color": 2, display: {Name: "OpenOS (Operating System)"}, "oc:lootFactory": "OpenComputers:openos"}), [[<Avaritia:Resource_Block:1>, <Avaritia:Resource_Block:1>, <Avaritia:Resource_Block:1>], [<Avaritia:Resource_Block:1>, <OpenComputers:item:4>, <Avaritia:Resource_Block:1>], [<Avaritia:Resource_Block:1>, <Avaritia:Resource_Block:1>, <Avaritia:Resource_Block:1>]]);
 recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:19>, [[<magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>], [<magicalcrops:CertusQuartzEssence>, <EnderIO:itemMaterial>, <magicalcrops:CertusQuartzEssence>], [<magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>]]);
 
