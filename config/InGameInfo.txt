@@ -1,0 +1,19 @@
+<topleft>Day {day}, {mctime} (<if[<daytime>[$eDay/$8Night]]> time$f)
+Biome: $e{biome}$f<if[<slimes>[ ($aSlime$f)/ ]]>
+$fEXP: $e{xpthislevel}$f \/ $e{xpcap}$f ($e<round[<pct[<xpthislevel>/<xpcap>]>/0]>%$f)
+<bottomleft><equippedicon> <op[ge/<pct[<equippeddamageleft>/<equippedmaxdamage>]>/50/20/10/0/$e/$6/$c/$4/]><max[<equippeddamageleft>/0.5[{equippeddamageleft}$f \/ $e{equippedmaxdamage}/<equippedname>]]>
+ 
+<bottomright><max[<potiondurationticks0>/0.5[{potionduration0} {potionicon0}/]]>
+<max[<potiondurationticks1>/0.5[{potionduration1} {potionicon1}/]]>
+<max[<potiondurationticks2>/0.5[{potionduration2} {potionicon2}/]]>
+<max[<potiondurationticks3>/0.5[{potionduration3} {potionicon3}/]]>
+<max[<potiondurationticks4>/0.5[{potionduration4} {potionicon4}/]]>
+<max[<potiondurationticks5>/0.5[{potionduration5} {potionicon5}/]]>
+<max[<potiondurationticks6>/0.5[{potionduration6} {potionicon6}/]]>
+<max[<potiondurationticks7>/0.5[{potionduration7} {potionicon7}/]]>
+<max[<potiondurationticks8>/0.5[{potionduration8} {potionicon8}/]]>
+ 
+<op[ge/<pct[<helmetdamageleft>/<helmetmaxdamage>]>/50/20/10/$e/$6/$c/$4]><max[<helmetdamageleft>/0.5[{helmetdamageleft}$f \/ $e{helmetmaxdamage}/]]> <helmeticon>
+<op[ge/<pct[<chestplatedamageleft>/<chestplatemaxdamage>]>/50/20/10/$e/$6/$c/$4]><max[<chestplatedamageleft>/0.5[{chestplatedamageleft}$f \/ $e{chestplatemaxdamage}/]]> <chestplateicon>
+<op[ge/<pct[<leggingsdamageleft>/<leggingsmaxdamage>]>/50/20/10/$e/$6/$c/$4]><max[<leggingsdamageleft>/0.5[{leggingsdamageleft}$f \/ $e{leggingsmaxdamage}/]]> <leggingsicon>
+<op[ge/<pct[<bootsdamageleft>/<bootsmaxdamage>]>/50/20/10/$e/$6/$c/$4]><max[<bootsdamageleft>/0.5[{bootsdamageleft}$f \/ $e{bootsmaxdamage}/]]> <bootsicon>

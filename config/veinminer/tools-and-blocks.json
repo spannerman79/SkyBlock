@@ -98,7 +98,9 @@
         "minecraft:leaves2",
         "minecraft:log",
         "minecraft:log2",
-        "minecraft:planks"
+        "minecraft:planks",
+        "witchery:witchleaves",
+        "witchery:witchlog"
       ]
     },
     "crook": {
@@ -124,6 +126,7 @@
       "name": "Hammer",
       "icon": "exnihilo:hammer_stone",
       "toollist": [
+        "excompressum:chickenStick",
         "excompressum:compressedHammerDiamond",
         "excompressum:compressedHammerGold",
         "excompressum:compressedHammerIron",
@@ -147,6 +150,20 @@
         "NuclearCraft:blockOre/7",
         "NuclearCraft:blockOre/8",
         "NuclearCraft:blockOre/9",
+        "aobd:oreGravelAluminium",
+        "aobd:oreGravelArdite",
+        "aobd:oreGravelCobalt",
+        "aobd:oreGravelDraconium",
+        "aobd:oreGravelPalladium",
+        "aobd:oreGravelSteel",
+        "aobd:oreGravelTungsten",
+        "aobd:oreSandAluminium",
+        "aobd:oreSandArdite",
+        "aobd:oreSandCobalt",
+        "aobd:oreSandDraconium",
+        "aobd:oreSandPalladium",
+        "aobd:oreSandSteel",
+        "aobd:oreSandTungsten",
         "exnihilo:aluminum_dust",
         "exnihilo:aluminum_gravel",
         "exnihilo:aluminum_sand",
@@ -176,6 +193,8 @@
         "exnihilo:nickel_dust",
         "exnihilo:nickel_gravel",
         "exnihilo:nickel_sand",
+        "exnihilo:osmium_gravel",
+        "exnihilo:osmium_sand",
         "exnihilo:platinum_dust",
         "exnihilo:platinum_gravel",
         "exnihilo:platinum_sand",
@@ -186,7 +205,9 @@
         "exnihilo:tin_gravel",
         "exnihilo:tin_sand",
         "minecraft:cobblestone",
+        "minecraft:double_stone_slab",
         "minecraft:gravel",
+        "minecraft:log",
         "minecraft:netherrack",
         "minecraft:sand"
       ]
@@ -385,6 +406,7 @@
         "Railcraft:ore/9",
         "Railcraft:ore/10",
         "Railcraft:ore/11",
+        "SGCraft:naquadahOre/0",
         "TConstruct:GravelOre/0",
         "TConstruct:GravelOre/1",
         "TConstruct:GravelOre/2",
@@ -540,11 +562,18 @@
         "aobd:orebushZinc/0",
         "appliedenergistics2:tile.OreQuartz/0",
         "appliedenergistics2:tile.OreQuartzCharged/0",
+        "chisel:andesite",
         "chisel:diorite",
         "chisel:granite",
         "chisel:limestone",
         "chisel:marble",
         "deepresonance:oreResonating/0",
+        "foundry:blockFoundryOre/0",
+        "foundry:blockFoundryOre/1",
+        "foundry:blockFoundryOre/2",
+        "foundry:blockFoundryOre/3",
+        "foundry:blockFoundryOre/4",
+        "foundry:blockFoundryOre/5",
         "magicalcrops:MinicioOre",
         "magicalcrops:MinicioOre/0",
         "magicalcrops:MinicioOreNether",
@@ -574,6 +603,7 @@
         "RedstoneArsenal:tool.wrenchFlux",
         "ThermalFoundation:tool.shearsDiamond",
         "ThermalFoundation:tool.shearsGold",
+        "ThermalFoundation:tool.shearsStone",
         "ThermalFoundation:tool.shearsWood",
         "minecraft:shears"
       ],
@@ -593,7 +623,8 @@
         "minecraft:tallgrass",
         "minecraft:vine",
         "minecraft:web",
-        "minecraft:wool"
+        "minecraft:wool",
+        "witchery:witchleaves"
       ]
     },
     "shovel": {
