@@ -1,1 +1,1 @@
-mods.exnihilo.Crucible.addHeatSource(<BigReactors:BRMetalBlock>, 5.0);
+mods.exnihilo.Crucible.addHeatSource(<BigReactors:BRMetalBlock>, 10.0);
