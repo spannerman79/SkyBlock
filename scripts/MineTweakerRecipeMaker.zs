@@ -26,6 +26,7 @@ recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:19>);
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+recipes.addShapeless(<universalcoins:item.iron_coin> * 10, [<universalcoins:item.gold_coin>]);
 recipes.addShapeless(<NuclearCraft:material:7> * 8, [<NuclearCraft:toughBoots>]);
 recipes.addShapeless(<NuclearCraft:material:7> * 12, [<NuclearCraft:toughHelm>]);
 recipes.addShapeless(<NuclearCraft:material:7> * 12, [<NuclearCraft:toughLegs>]);
