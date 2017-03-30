@@ -12,6 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<EvilNihilo:CraftedDarkGem>);
 recipes.remove(<OpenComputers:item:4>.withTag({"oc:data": {"oc:fs.label": "openos"}, "oc:color": 2, display: {Name: "OpenOS (Operating System)"}, "oc:lootFactory": "OpenComputers:openos"}));
 recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:19>);
 
@@ -26,6 +27,8 @@ recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:19>);
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+recipes.addShapeless(<evilcraft:darkGem>, [<ore:darkGemShard>, <EvilNihilo:DarkGemShard>, <ore:darkGemShard>, <EvilNihilo:DarkGemShard>]);
+recipes.addShapeless(<minecraft:log:3>, [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>, <ore:plankWood>]);
 recipes.addShapeless(<universalcoins:item.iron_coin> * 10, [<universalcoins:item.gold_coin>]);
 recipes.addShapeless(<NuclearCraft:material:7> * 8, [<NuclearCraft:toughBoots>]);
 recipes.addShapeless(<NuclearCraft:material:7> * 12, [<NuclearCraft:toughHelm>]);
@@ -45,6 +48,8 @@ recipes.addShapeless(<ExtraPlanets:tier5Items:5> * 9, [<ore:blockPalladium>]);
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<NuclearCraft:parts:8> * 19, [[<NuclearCraft:dUPaxel>]]);
+recipes.addShaped(<NuclearCraft:material:7> * 19, [[<NuclearCraft:toughAlloyPaxel>]]);
 recipes.addShaped(<NuclearCraft:parts:8> * 8, [[<NuclearCraft:dUBoots>]]);
 recipes.addShaped(<NuclearCraft:parts:8> * 12, [[<NuclearCraft:dUHelm>]]);
 recipes.addShaped(<NuclearCraft:parts:8> * 17, [[<NuclearCraft:dUChest>]]);
