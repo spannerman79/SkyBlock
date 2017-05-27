@@ -1,0 +1,1 @@
+mods.exnihilo.Sieve.addRecipe(<minecraft:sand>, <ProjRed|Core:projectred.core.part:56>, 10);

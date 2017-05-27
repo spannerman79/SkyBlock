@@ -393,8 +393,7 @@ Aspects.set(<TwilightForest:item.knightlyHelm>, "metallum 9, fabrico 5, tutamen 
 
 Aspects.set(<TwilightForest:item.knightlyPlate>, "metallum 12, fabrico 8, tutamen 8");
 
-Aspects.set(<TwilightForest:item.knightlyLegs>, "metallum 11, fabrico 7,
-tutamen 7");
+Aspects.set(<TwilightForest:item.knightlyLegs>, "metallum 11, fabrico 7, tutamen 7");
 
 Aspects.set(<TwilightForest:item.knightlyBoots>, "metallum 8, fabrico 4, tutamen 4");
 

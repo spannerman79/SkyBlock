@@ -1,0 +1,1 @@
+mods.mekanism.Combiner.addRecipe(<ProjRed|Core:projectred.core.part:56> * 4, <gas:liquidStone>, <ProjRed|Exploration:projectred.exploration.ore:6>);

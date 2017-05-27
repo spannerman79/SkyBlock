@@ -101,8 +101,6 @@ Aspects.set(<AWWayofTime:blockCrystalBelljar>, "vitreus 5, arbor 2, vinculum 4")
 
 Aspects.set(<AWWayofTime:blockDemonChest>, "arbor 6, vacuos 4, alienis 2, infernus 2");
 
-
-
 Aspects.set(<AWWayofTime:blockCrystal>, "victus 60, potentia 21, ignis 20, praecantatio 60, perditio 3, tenebrae 3, infernus 30, spiritus 42, mortuus 51");
 
 Aspects.set(<AWWayofTime:blockCrystal:1>, "victus 60, potentia 21, ignis 20, praecantatio 60, ordo 3, tenebrae 3, infernus 30, spiritus 42, mortuus 51");
@@ -159,8 +157,7 @@ Aspects.set(<AWWayofTime:activationCrystal:1>, "victus 7, potentia 5, ignis 6, p
 
 Aspects.set(<AWWayofTime:boundHelmet>, "praecantatio 9, victus 6, tutamen 5, alienis 2");
 
-Aspects.set(
-<AWWayofTime:boundPlate>, "praecantatio 11, victus 7, tutamen 7, alienis 3");
+Aspects.set(<AWWayofTime:boundPlate>, "praecantatio 11, victus 7, tutamen 7, alienis 3");
 
 Aspects.set(<AWWayofTime:boundLeggings>, "praecantatio 11, victus 7, tutamen 6, alienis 3");
 
@@ -323,8 +320,6 @@ Aspects.set(<AWWayofTime:bloodMagicBaseItems:25>, "terra 4, ignis 4, potentia 3,
 Aspects.set(<AWWayofTime:bloodMagicBaseItems:26>, "praecantatio 2, terra 3, instrumentum 5, potentia 3");
 
 Aspects.set(<AWWayofTime:bloodMagicBaseItems:27>, "praecantatio 11, victus 11");
-
-
 
 Aspects.set(<AWWayofTime:bloodMagicBaseItems:28>, "victus 37, potentia 4, ignis 4, praecantatio 37, perditio 1, tenebrae 1, infernus 10, mortuus 13");
 

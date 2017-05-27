@@ -1,0 +1,1 @@
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves>, <exnihilo:silkworm>, 64);
