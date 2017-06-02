@@ -12,6 +12,8 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<erebus:armorGliderPowered>);
+recipes.remove(<baublelicious:ItemFlyingRing>);
 recipes.remove(<EvilNihilo:CraftedDarkGem>);
 recipes.remove(<OpenComputers:item:4>.withTag({"oc:data": {"oc:fs.label": "openos"}, "oc:color": 2, display: {Name: "OpenOS (Operating System)"}, "oc:lootFactory": "OpenComputers:openos"}));
 recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:19>);
@@ -27,6 +29,8 @@ recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:19>);
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+recipes.addShapeless(<ExtraPlanets:tier6Items:5> * 9, [<ore:blockMagnesium>]);
+recipes.addShapeless(<minecraft:glass>, [<minecraft:glass_bottle>, <minecraft:glass_bottle>, <minecraft:glass_bottle>]);
 recipes.addShapeless(<minecraft:spawn_egg:92>, [<excompressum:bait:2>, <excompressum:bait:2>, <excompressum:bait:2>, <excompressum:bait:2>]);
 recipes.addShapeless(<minecraft:torch> * 12, [<ore:blockWool>, <ImmersiveEngineering:fluidContainers:1>, <ore:stickWood>]);
 recipes.addShapeless(<minecraft:torch> * 12, [<ore:blockWool>, <ImmersiveEngineering:fluidContainers>, <ore:stickWood>]);

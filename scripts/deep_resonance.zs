@@ -1,2 +1,2 @@
 mods.exnihilo.Sieve.addRecipe(<minecraft:gravel>, <deepresonance:resonatingCrystalBlock>, 64);
-mods.thermalexpansion.Smelter.addRecipe(800, <deepresonance:resonatingCrystalBlock>, <minecraft:stone>, <deepresonance:oreResonating> *3, <deepresonance:oreResonating>,25);
+mods.thermalexpansion.Smelter.addRecipe(800, <deepresonance:resonatingCrystalBlock>, <minecraft:stone>, <deepresonance:oreResonating> *8, <deepresonance:oreResonating>,25);
