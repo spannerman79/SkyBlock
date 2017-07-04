@@ -1,8 +1,8 @@
 **
 
-AU Play SkyBlock
+SkyBlock
 ----------------
 
 **
 
-This modpack is for AU Play specifically as there are some server side things that cannot be replicated playing single player.
+This modpack is for us specifically as there are some server side things that cannot be replicated playing single player.
