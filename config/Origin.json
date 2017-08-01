@@ -1,7 +1,7 @@
 {
 	"general": {
 		// Shhhhh!
-		"Secret Pumpkin": false
+		"Secret Pumpkin": true
 	},
 	"client": {
 		// Collapses the vanilla multiple rows of hearts into a colour coded single layer
