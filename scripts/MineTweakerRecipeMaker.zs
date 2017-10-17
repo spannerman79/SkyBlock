@@ -14,9 +14,7 @@
 //#MARKER REMOVE
 recipes.remove(<erebus:armorGliderPowered>);
 recipes.remove(<baublelicious:ItemFlyingRing>);
-recipes.remove(<EvilNihilo:CraftedDarkGem>);
 recipes.remove(<OpenComputers:item:4>.withTag({"oc:data": {"oc:fs.label": "openos"}, "oc:color": 2, display: {Name: "OpenOS (Operating System)"}, "oc:lootFactory": "OpenComputers:openos"}));
-recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:19>);
 
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
@@ -29,13 +27,14 @@ recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:19>);
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+recipes.addShapeless(<Mekanism:Ingot:1> * 8, [<MekanismTools:OsmiumChestplate>]);
+recipes.addShapeless(<EnderIO:itemConduitProbe>, [<EnderIO:itemConduitProbe:1>]);
+recipes.addShapeless(<minecraft:torch> * 12, [<ore:blockCloth>, <ImmersiveEngineering:fluidContainers:1>, <ore:stickWood>]);
+recipes.addShapeless(<minecraft:torch> * 12, [<ore:blockCloth>, <ImmersiveEngineering:fluidContainers>, <ore:stickWood>]);
 recipes.addShapeless(<ExtraPlanets:tier6Items:5> * 9, [<ore:blockMagnesium>]);
 recipes.addShapeless(<minecraft:glass>, [<minecraft:glass_bottle>, <minecraft:glass_bottle>, <minecraft:glass_bottle>]);
 recipes.addShapeless(<minecraft:spawn_egg:92>, [<excompressum:bait:2>, <excompressum:bait:2>, <excompressum:bait:2>, <excompressum:bait:2>]);
-recipes.addShapeless(<minecraft:torch> * 12, [<ore:blockWool>, <ImmersiveEngineering:fluidContainers:1>, <ore:stickWood>]);
-recipes.addShapeless(<minecraft:torch> * 12, [<ore:blockWool>, <ImmersiveEngineering:fluidContainers>, <ore:stickWood>]);
 recipes.addShapeless(<minecraft:coal:1>, [<Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>]);
-recipes.addShapeless(<evilcraft:darkGem>, [<ore:darkGemShard>, <EvilNihilo:DarkGemShard>, <ore:darkGemShard>, <EvilNihilo:DarkGemShard>]);
 recipes.addShapeless(<minecraft:log:3>, [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>, <ore:plankWood>]);
 recipes.addShapeless(<universalcoins:item.iron_coin> * 10, [<universalcoins:item.gold_coin>]);
 recipes.addShapeless(<ExtraPlanets:ingotMercury> * 9, [<ExtraPlanets:tile.mercury:8>]);
@@ -45,18 +44,14 @@ recipes.addShapeless(<minecraft:spawn_egg:93>, [<excompressum:bait:4>, <excompre
 recipes.addShapeless(<minecraft:spawn_egg:94>, [<excompressum:bait:6>, <excompressum:bait:6>, <excompressum:bait:6>, <excompressum:bait:6>]);
 recipes.addShapeless(<ExtraPlanets:tier7Items:5> * 9, [<ore:blockCrystal>]);
 recipes.addShapeless(<ExtraPlanets:tier4Items:5> * 9, [<ore:blockCarbon>]);
-recipes.addShapeless(<ExtraPlanets:tier4Items:5> * 9, [<ore:blockCarbon>]);
 recipes.addShapeless(<ExtraPlanets:tier9Items:5> * 9, [<ore:blockTungsten>]);
 recipes.addShapeless(<ExtraPlanets:tier5Items:5> * 9, [<ore:blockPalladium>]);
 
 // ================================================================================
 //#MARKER ADD SHAPED
-recipes.addShaped(<EnderIO:itemBrokenSpawner>, [[<EnderIO:blockReinforcedObsidian>, <EnderIO:blockReinforcedObsidian>, <EnderIO:blockReinforcedObsidian>], [<EnderIO:blockReinforcedObsidian>, <minecraft:spawn_egg:92>, <EnderIO:blockReinforcedObsidian>], [<EnderIO:blockReinforcedObsidian>, <EnderIO:blockReinforcedObsidian>, <EnderIO:blockReinforcedObsidian>]]);
-recipes.addShaped(<minecraft:paper> * 2, [[null, <ore:dustWood>, null], [<ore:dustWood>, <ore:listAllwater>, <ore:dustWood>], [null, <ore:dustWood>, null]]);
+recipes.addShaped(<minecraft:mossy_cobblestone> * 8, [[<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>], [<minecraft:cobblestone>, <ore:listAllwater>, <ore:cobblestone>], [<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>]]);
+recipes.addShaped(<minecraft:mossy_cobblestone> * 8, [[<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>], [<ore:cobblestone>, <claybucket:claybucket:1>, <ore:cobblestone>], [<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>]]);
 recipes.addShaped(<minecraft:paper> * 2, [[null, <ore:dustWood>, null], [<ore:dustWood>, <ore:listAllwater>, <ore:dustWood>], [null, <ore:dustWood>, null]]);
 recipes.addShaped(<ExtraPlanets:tile.uranus:4>, [[<ExtraPlanets:tier7Items:5>, <ExtraPlanets:tier7Items:5>, <ExtraPlanets:tier7Items:5>], [<ExtraPlanets:tier7Items:5>, <ExtraPlanets:tier7Items:5>, <ExtraPlanets:tier7Items:5>], [<ExtraPlanets:tier7Items:5>, <ExtraPlanets:tier7Items:5>, <ExtraPlanets:tier7Items:5>]]);
-recipes.addShaped(<ExtraPlanets:tile.uranus:4>, [[<ore:ingotCrystal>, <ore:ingotCrystal>, <ore:ingotCrystal>], [<ore:ingotCrystal>, <ore:ingotCrystal>, <ExtraPlanets:tier7Items:5>], [<ore:ingotCrystal>, <ExtraPlanets:tier7Items:5>, <ExtraPlanets:tier7Items:5>]]);
 recipes.addShaped(<ExtraPlanets:tile.uranus:4>, [[<ore:ingotCrystal>, <ore:ingotCrystal>, <ore:ingotCrystal>], [<ExtraPlanets:tier7Items:5>, <ore:ingotCrystal>, <ore:ingotCrystal>], [<ore:ingotCrystal>, <ore:ingotCrystal>, <ore:ingotCrystal>]]);
 recipes.addShaped(<OpenComputers:item:4>.withTag({"oc:data": {"oc:fs.label": "openos"}, "oc:color": 2, display: {Name: "OpenOS (Operating System)"}, "oc:lootFactory": "OpenComputers:openos"}), [[<Avaritia:Resource_Block:1>, <Avaritia:Resource_Block:1>, <Avaritia:Resource_Block:1>], [<Avaritia:Resource_Block:1>, <OpenComputers:item:4>, <Avaritia:Resource_Block:1>], [<Avaritia:Resource_Block:1>, <Avaritia:Resource_Block:1>, <Avaritia:Resource_Block:1>]]);
-recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:19>, [[<magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>], [<magicalcrops:CertusQuartzEssence>, <EnderIO:itemMaterial>, <magicalcrops:CertusQuartzEssence>], [<magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>]]);
-

@@ -1,0 +1,1 @@
+recipes.remove(<ironfurnaces:crystal_furnace>);
