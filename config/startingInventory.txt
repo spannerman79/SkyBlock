@@ -1,6 +1,5 @@
-minecraft:stone_pickaxe, 1
-minecraft:stone_shovel, 1
-minecraft:stone_sword, 1
-minecraft:stone_axe, 1
+excompressum:compressedCrook, 1
+minecraft:sapling, 4
 minecraft:apple, 16
 minecraft:torch, 16
+Botania:magnetRing, 1

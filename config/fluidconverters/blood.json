@@ -1,0 +1,19 @@
+{
+    groupId : "blood",
+    groupName : "Blood",
+    fluidElements : [
+        {
+            fluidName: "evilcraftblood",
+            value: 1.0
+        },
+        {
+            fluidName: "life essence",
+            value: 1.0
+        },
+        {
+            fluidName: "blood",
+            value: 1.0
+        }
+
+    ]
+}
