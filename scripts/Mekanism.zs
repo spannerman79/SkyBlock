@@ -1,2 +1,10 @@
-mods.mekanism.Combiner.addRecipe(<ProjRed|Core:projectred.core.part:56> * 4, <gas:liquidStone>, <ProjRed|Exploration:projectred.exploration.ore:6>);
+//mods.mekanism.Combiner.addRecipe(<ProjRed|Core:projectred.core.part:56> * 4, <gas:liquidStone>, <ProjRed|Exploration:projectred.exploration.ore:6>);
 mods.mekanism.Crusher.addRecipe(<minecraft:leaves> * 4, <Mekanism:BioFuel>);
+mods.mekanism.Crusher.addRecipe(<NOVA:blockSapling>, <Mekanism:BioFuel> * 8);
+furnace.addRecipe(<minecraft:dye:4> * 4, <MekanismTools:LapisLazuliBoots>);
+furnace.addRecipe(<minecraft:dye:4> * 5, <MekanismTools:LapisLazuliHelmet>);
+furnace.addRecipe(<minecraft:dye:4> * 2, <MekanismTools:LapisLazuliSword>);
+furnace.addRecipe(<Mekanism:Ingot:3> * 2, <MekanismTools:GlowstoneSword>);
+furnace.addRecipe(<Mekanism:Ingot:3> * 8, <MekanismTools:GlowstoneChestplate>);
+furnace.addRecipe(<Mekanism:Ingot:3> * 4, <MekanismTools:GlowstoneBoots>);
+furnace.addRecipe(<Mekanism:Ingot:1> * 5, <MekanismTools:OsmiumHelmet>);
