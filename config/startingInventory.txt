@@ -1,5 +1,9 @@
-excompressum:compressedCrook, 1
-minecraft:sapling, 4
-minecraft:apple, 16
-minecraft:torch, 16
-Botania:magnetRing, 1
+minecraft:apple,8,0
+minecraft:sapling,16,0
+Botania:magnetRing,1,0,{}
+TConstruct:Shuriken,1,0,{InfiTool:{RenderExtra:1,BaseDurability:200,BaseAttack:3,ToolEXP:0L,HarvestLevel:0,HarvestLevelExtra:0,RenderHead:1,ModDurability:0.0f,MiningSpeedExtra:150,Shoddy:1.0f,RenderHandle:1,Accessory:1,MiningSpeed:150,MiningSpeedHandle:150,Unbreaking:0,Damage:0,HarvestLevel2:0,BonusDurability:0,TotalDurability:200,MiningSpeed2:150,Head:1,HarvestLevelHandle:0,Attack:3,Handle:1,Broken:0b,Ammo:20,Extra:1,RenderAccessory:1,ToolLevel:1,Modifiers:0},display:{Name:"§fStone Shuriken"}}
+TConstruct:hatchet,1,0,{InfiTool:{BaseDurability:80,Head:1,BaseAttack:4,ToolEXP:0L,HarvestLevel:0,Attack:4,RenderHead:1,ModDurability:0.0f,Handle:0,Broken:0b,Shoddy:0.5f,RenderHandle:0,MiningSpeed:150,ToolLevel:1,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:80,Modifiers:0},display:{Name:"§fStone Hatchet"}}
+TConstruct:pickaxe,1,0,{InfiTool:{BaseDurability:80,Head:1,BaseAttack:2,ToolEXP:0L,HarvestLevel:0,Attack:2,RenderHead:1,ModDurability:0.0f,Handle:0,Broken:0b,Shoddy:0.33333334f,RenderHandle:0,Accessory:0,MiningSpeed:150,RenderAccessory:0,ToolLevel:1,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:80,Modifiers:0},display:{Name:"§fStone Pickaxe"}}
+harvestcraft:applejuiceItem,8,0
+tits:skycrook,1,0,{InfiTool:{BaseDurability:40,Head:0,BaseAttack:1,ToolEXP:0L,HarvestLevel:0,Attack:1,RenderHead:0,ModDurability:0.0f,Handle:0,Broken:0b,Shoddy:0.0f,RenderHandle:0,Accessory:0,MiningSpeed:150,RenderAccessory:0,ToolLevel:1,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:40,Modifiers:0},display:{Name:"§fWooden exCrook"}}
+tits:skyhammer,1,0,{InfiTool:{BaseDurability:80,Head:1,BaseAttack:4,ToolEXP:0L,HarvestLevel:0,Attack:4,RenderHead:1,ModDurability:0.0f,Handle:0,Broken:0b,Shoddy:0.33333334f,RenderHandle:0,Accessory:0,MiningSpeed:150,RenderAccessory:0,ToolLevel:1,Unbreaking:0,Damage:0,BonusDurability:0,TotalDurability:80,Modifiers:0},display:{Name:"§fStone exHammer"}}

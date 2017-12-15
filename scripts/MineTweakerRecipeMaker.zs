@@ -14,6 +14,7 @@
 //#MARKER REMOVE
 recipes.remove(<erebus:armorGliderPowered>);
 recipes.remove(<OpenComputers:item:4>.withTag({"oc:data": {"oc:fs.label": "openos"}, "oc:color": 2, display: {Name: "OpenOS (Operating System)"}, "oc:lootFactory": "OpenComputers:openos"}));
+recipes.remove(<evilcraft:colossalBloodChest>);
 
 // ================================================================================
 //#MARKER REMOVE SHAPELESS
@@ -26,6 +27,9 @@ recipes.remove(<OpenComputers:item:4>.withTag({"oc:data": {"oc:fs.label": "openo
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+recipes.addShapeless(<minecraft:rotten_flesh> * 9, [<Thaumcraft:blockTaint:2>]);
+recipes.addShapeless(<evilcraft:boxOfEternalClosure>, [<evilcraft:boxOfEternalClosure>]);
+recipes.addShapeless(<Mekanism:Ingot:3> * 5, [<MekanismTools:GlowstoneHelmet>]);
 recipes.addShapeless(<minecraft:glowstone_dust> * 4, [<ore:glowstone>]);
 recipes.addShapeless(<minecraft:stonebrick> * 3, [<minecraft:stone_brick_stairs> * 4]);
 recipes.addShapeless(<minecraft:glass_bottle>, [<ore:bEnderAirBottle>]);
@@ -36,9 +40,7 @@ recipes.addShapeless(<minecraft:torch> * 12, [<ore:blockCloth>, <ImmersiveEngine
 recipes.addShapeless(<minecraft:torch> * 12, [<ore:blockCloth>, <ImmersiveEngineering:fluidContainers>, <ore:stickWood>]);
 recipes.addShapeless(<minecraft:glass>, [<minecraft:glass_bottle>, <minecraft:glass_bottle>, <minecraft:glass_bottle>]);
 recipes.addShapeless(<minecraft:spawn_egg:92>, [<excompressum:bait:2>, <excompressum:bait:2>, <excompressum:bait:2>, <excompressum:bait:2>]);
-recipes.addShapeless(<minecraft:coal:1>, [<Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>]);
-recipes.addShapeless(<minecraft:log:3>, [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>, <ore:plankWood>]);
-recipes.addShapeless(<universalcoins:item.iron_coin> * 10, [<universalcoins:item.gold_coin>]);
+recipes.addShapeless(<minecraft:log:3>, [<ore:plankWood> * 4]);
 recipes.addShapeless(<EnderIO:itemAlloy:6> * 2, [<EnderIO:item.darkSteel_sword>]);
 recipes.addShapeless(<EnderIO:itemAlloy:6> * 4, [<EnderIO:item.darkSteel_boots>]);
 recipes.addShapeless(<minecraft:spawn_egg:93>, [<excompressum:bait:4>, <excompressum:bait:4>, <excompressum:bait:4>, <excompressum:bait:4>]);
@@ -46,6 +48,9 @@ recipes.addShapeless(<minecraft:spawn_egg:94>, [<excompressum:bait:6>, <excompre
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<Thaumcraft:ItemShard:4> * 4, [[<Thaumcraft:ItemBaubleBlanks:7>, <Thaumcraft:ItemBaubleBlanks:7>], [<Thaumcraft:ItemBaubleBlanks:7>, null]]);
+recipes.addShaped(<evilcraft:colossalBloodChest>, [[<evilcraft:reinforcedUndeadPlank>, <evilcraft:bloodChest>, <evilcraft:reinforcedUndeadPlank>], [<evilcraft:reinforcedUndeadPlank>, <evilcraft:bloodInfusionCore>, <evilcraft:reinforcedUndeadPlank>]]);
+recipes.addShaped(<EnderIO:blockEndermanSkull>, [[<ore:pearlEnder>, <ore:pearlEnder>, <ore:pearlEnder>], [<ore:pearlEnder>, <ore:itemSkull>, <ore:pearlEnder>], [<ore:pearlEnder>, <ore:pearlEnder>, <ore:pearlEnder>]]);
 recipes.addShaped(<ExtraUtilities:decorativeBlock1:8>, [[<OpenBlocks:filledbucket>, <OpenBlocks:filledbucket>, <OpenBlocks:filledbucket>], [<OpenBlocks:filledbucket>, <minecraft:bookshelf>, <OpenBlocks:filledbucket>], [<OpenBlocks:filledbucket>, <OpenBlocks:filledbucket>, <OpenBlocks:filledbucket>]]);
 recipes.addShaped(<Botania:manaResource:15>, [[<ore:pearlEnder>, <ore:pearlEnder>, <ore:pearlEnder>], [<ore:pearlEnder>, <minecraft:glass_bottle>, <ore:pearlEnder>], [<ore:pearlEnder>, <ore:pearlEnder>, <ore:pearlEnder>]]);
 recipes.addShaped(<minecraft:mossy_cobblestone> * 8, [[<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>], [<minecraft:cobblestone>, <ore:listAllwater>, <ore:cobblestone>], [<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>]]);

@@ -1,0 +1,63 @@
+{
+  "book": [
+    {
+      "features": [
+        {
+          "type": "FeatureResource",
+          "properties": {
+            "path": "enchiridion:textures/wiki/enchiridion_logo.png:2.5",
+            "xPos": 89,
+            "yPos": -21,
+            "width": 321.0,
+            "height": 108.0
+          }
+        },
+        {
+          "type": "FeatureRecipe",
+          "properties": {
+            "ingredients": "ingotIron:ingotIron:ingotIron:ingotIron:minecraft:glass_bottle:0:ingotIron:ingotIron:ingotIron:ingotIron",
+            "recipeType": "ShapedOreRecipe",
+            "item": "OpenBlocks:xpbottler",
+            "xPos": 40,
+            "yPos": 105,
+            "width": 129.0,
+            "height": 64.5
+          }
+        }
+      ],
+      "pageName": ""
+    },
+    {
+      "features": [
+        {
+          "type": "FeatureText",
+          "properties": {
+            "text": "Lorem ipsum",
+            "wrap": 0,
+            "size": 1.0,
+            "color": "FF555555",
+            "xPos": 0,
+            "yPos": 0,
+            "width": 50.0,
+            "height": 50.0
+          }
+        }
+      ],
+      "pageName": ""
+    }
+  ],
+  "uniqueName": "enchiridion.introbook",
+  "color": 16777215,
+  "showBackground": true,
+  "showArrows": true,
+  "showNumber": true,
+  "iconPass1": "",
+  "iconPass2": "",
+  "iconColorisePass1": false,
+  "iconColorisePass2": false,
+  "iconColorPass1": 0,
+  "iconColorPass2": 0,
+  "language": "en_US",
+  "displayName": "Introduction Book",
+  "displayInCreative": true
+}
