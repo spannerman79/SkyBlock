@@ -21,6 +21,16 @@
             "seed":"ExtraUtilities:plant/ender_lilly",
             "block":"ExtraUtilities:plant/ender_lilly",
             "meta":7
+        },
+        {
+            "seed":"magicalcrops:AirSeeds",
+            "block":"magicalcrops:AirCrop",
+            "meta":7
+        },
+        {
+            "seed":"magicalcrops:CertusQuartzSeeds",
+            "block":"magicalcrops:CertusQuartzCrop",
+            "meta":7
         }
 	]
 }

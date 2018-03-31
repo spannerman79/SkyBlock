@@ -1,0 +1,42 @@
+{
+  "list": {
+    "lastUsed": 0,
+    "type": "EXECUTE",
+    "execute": "list",
+    "response": "",
+    "permLevel": 0,
+    "help": "List online players",
+    "allowArgs": false,
+    "timeout": 20
+  },
+  "seed": {
+    "lastUsed": 0,
+    "type": "EXECUTE",
+    "execute": "seed",
+    "response": "",
+    "permLevel": 0,
+    "help": "Print server world seed",
+    "allowArgs": false,
+    "timeout": 20
+  },
+  "tps": {
+    "lastUsed": 0,
+    "type": "EXECUTE",
+    "execute": "forge tps",
+    "response": "",
+    "permLevel": 0,
+    "help": "Print server tps",
+    "allowArgs": false,
+    "timeout": 20
+  },
+  "uptime": {
+    "lastUsed": 0,
+    "type": "RESPONSE",
+    "execute": "",
+    "response": "{uptime}",
+    "permLevel": 1,
+    "help": "Print server uptime",
+    "allowArgs": false,
+    "timeout": 20
+  }
+}

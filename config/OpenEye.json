@@ -65,7 +65,7 @@
         },
         "mainScreenExtraLine": {
             "comment": "Enables extra line in main menu screen under buttons (if true, only note button will be displayed)",
-            "value": true
+            "value": false
         },
         "mainScreenNotes": {
             "comment": "Enables OpenEye additions to main menu screen",

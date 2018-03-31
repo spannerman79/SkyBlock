@@ -18,3 +18,14 @@ recipes.addShaped(<TConstruct:heartCanister:3>, [[<TConstruct:diamondApple>, <or
 <ore:oreNetherBrokenKnightmetal>.mirror(<ore:oreBrokenKnightmetal>);
 <ore:oreBrokenObsidian>.addAll(<ore:oreNetherBrokenObsidian>);
 <ore:oreNetherBrokenObsidian>.mirror(<ore:oreBrokenObsidian>);
+// Tinkers Creative Modifier - adds 1 slot
+mods.avaritia.ExtremeCrafting.addShaped(<TConstruct:creativeModifier>,
+ [[<TConstruct:heavyPlate:501>, <TConstruct:heavyPlate:501>, <TConstruct:heavyPlate:501>, <TConstruct:heavyPlate:501>, <TConstruct:heavyPlate:501>, null, null, null, null],
+  [<TConstruct:heavyPlate:501>, null, <TConstruct:heavyPlate:501>, null, <TConstruct:heavyPlate:501>, null, null, null, null],
+  [<TConstruct:heavyPlate:501>, <TConstruct:heavyPlate:501>, <Avaritia:Resource_Block:1>, <TConstruct:heavyPlate:501>, <TConstruct:heavyPlate:501>, null, null, null, null],
+  [<TConstruct:heavyPlate:501>, null, null, null, <TConstruct:heavyPlate:501>, null, null, null, null],
+  [<TConstruct:heavyPlate:501>, <TConstruct:heavyPlate:501>, <TConstruct:heavyPlate:501>, <TConstruct:heavyPlate:501>, <TConstruct:heavyPlate:501>, null, null, null, null],
+  [null, null, null, null, null, null, null, null, null],
+  [null, null, null, null, null, null, null, null, null],
+  [null, null, null, null, null, null, null, null, null],
+  [null, null, null, null, null, null, null, null, null]]);

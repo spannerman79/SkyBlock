@@ -12,7 +12,8 @@
 
 // ================================================================================
 //#MARKER REMOVE
-recipes.remove(<erebus:armorGliderPowered>);
+recipes.remove(<OpenComputers:item:35>);
+recipes.remove(<extracells:hardmedrive>);
 recipes.remove(<OpenComputers:item:4>.withTag({"oc:data": {"oc:fs.label": "openos"}, "oc:color": 2, display: {Name: "OpenOS (Operating System)"}, "oc:lootFactory": "OpenComputers:openos"}));
 recipes.remove(<evilcraft:colossalBloodChest>);
 
@@ -27,6 +28,17 @@ recipes.remove(<evilcraft:colossalBloodChest>);
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+recipes.addShapeless(<minecraft:spawn_egg:90>, [<excompressum:bait:3>, <excompressum:bait:3>, <excompressum:bait:3>, <excompressum:bait:3>]);
+recipes.addShapeless(<minecraft:coal:1>, [<Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>]);
+recipes.addShapeless(<minecraft:coal>, [<Ztones:minicoal>, <Ztones:minicoal>, <Ztones:minicoal>, <Ztones:minicoal>, <Ztones:minicoal>, <Ztones:minicoal>, <Ztones:minicoal>, <Ztones:minicoal>]);
+recipes.addShapeless(<ThermalExpansion:Strongbox>, [<ThermalExpansion:Strongbox>]);
+recipes.addShapeless(<JABBA:upgradeCore:9>, [<JABBA:upgradeCore:8>, <JABBA:upgradeCore:8>, <JABBA:upgradeCore:8>]);
+recipes.addShapeless(<xprings:item.xpr2>, [<minecraft:experience_bottle>, <minecraft:experience_bottle>]);
+recipes.addShapeless(<minecraft:log>, [<minecraft:planks>, <minecraft:planks>, <minecraft:planks>, <minecraft:planks>]);
+recipes.addShapeless(<minecraft:coal>, [<GalacticraftMars:item.carbonFragments>, <GalacticraftMars:item.carbonFragments>, <GalacticraftMars:item.carbonFragments>, <GalacticraftMars:item.carbonFragments>, <GalacticraftMars:item.carbonFragments>, <GalacticraftMars:item.carbonFragments>, <GalacticraftMars:item.carbonFragments>, <GalacticraftMars:item.carbonFragments>]);
+recipes.addShapeless(<minecraft:coal:1>, [<GalacticraftMars:item.carbonFragments>, <GalacticraftMars:item.carbonFragments>, <GalacticraftMars:item.carbonFragments>, <GalacticraftMars:item.carbonFragments>]);
+recipes.addShapeless(<minecraft:planks>, [<ore:stickWood>, <ore:stickWood>]);
+recipes.addShapeless(<minecraft:stick>, [<ore:fenceWood>, <ore:fenceWood>]);
 recipes.addShapeless(<minecraft:rotten_flesh> * 9, [<Thaumcraft:blockTaint:2>]);
 recipes.addShapeless(<evilcraft:boxOfEternalClosure>, [<evilcraft:boxOfEternalClosure>]);
 recipes.addShapeless(<Mekanism:Ingot:3> * 5, [<MekanismTools:GlowstoneHelmet>]);
@@ -40,7 +52,7 @@ recipes.addShapeless(<minecraft:torch> * 12, [<ore:blockCloth>, <ImmersiveEngine
 recipes.addShapeless(<minecraft:torch> * 12, [<ore:blockCloth>, <ImmersiveEngineering:fluidContainers>, <ore:stickWood>]);
 recipes.addShapeless(<minecraft:glass>, [<minecraft:glass_bottle>, <minecraft:glass_bottle>, <minecraft:glass_bottle>]);
 recipes.addShapeless(<minecraft:spawn_egg:92>, [<excompressum:bait:2>, <excompressum:bait:2>, <excompressum:bait:2>, <excompressum:bait:2>]);
-recipes.addShapeless(<minecraft:log:3>, [<ore:plankWood> * 4]);
+recipes.addShapeless(<minecraft:log:3>, [<minecraft:planks> * 4]);
 recipes.addShapeless(<EnderIO:itemAlloy:6> * 2, [<EnderIO:item.darkSteel_sword>]);
 recipes.addShapeless(<EnderIO:itemAlloy:6> * 4, [<EnderIO:item.darkSteel_boots>]);
 recipes.addShapeless(<minecraft:spawn_egg:93>, [<excompressum:bait:4>, <excompressum:bait:4>, <excompressum:bait:4>, <excompressum:bait:4>]);
@@ -48,12 +60,12 @@ recipes.addShapeless(<minecraft:spawn_egg:94>, [<excompressum:bait:6>, <excompre
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<minecraft:glowstone_dust> * 4, [[<ore:nuggetGold>, <ore:dustRedstone>, <ore:nuggetGold>], [<ore:dustRedstone>, <ore:nuggetGold>, <ore:dustRedstone>], [<ore:nuggetGold>, <ore:dustRedstone>, <ore:nuggetGold>]]);
 recipes.addShaped(<Thaumcraft:ItemShard:4> * 4, [[<Thaumcraft:ItemBaubleBlanks:7>, <Thaumcraft:ItemBaubleBlanks:7>], [<Thaumcraft:ItemBaubleBlanks:7>, null]]);
 recipes.addShaped(<evilcraft:colossalBloodChest>, [[<evilcraft:reinforcedUndeadPlank>, <evilcraft:bloodChest>, <evilcraft:reinforcedUndeadPlank>], [<evilcraft:reinforcedUndeadPlank>, <evilcraft:bloodInfusionCore>, <evilcraft:reinforcedUndeadPlank>]]);
 recipes.addShaped(<EnderIO:blockEndermanSkull>, [[<ore:pearlEnder>, <ore:pearlEnder>, <ore:pearlEnder>], [<ore:pearlEnder>, <ore:itemSkull>, <ore:pearlEnder>], [<ore:pearlEnder>, <ore:pearlEnder>, <ore:pearlEnder>]]);
 recipes.addShaped(<ExtraUtilities:decorativeBlock1:8>, [[<OpenBlocks:filledbucket>, <OpenBlocks:filledbucket>, <OpenBlocks:filledbucket>], [<OpenBlocks:filledbucket>, <minecraft:bookshelf>, <OpenBlocks:filledbucket>], [<OpenBlocks:filledbucket>, <OpenBlocks:filledbucket>, <OpenBlocks:filledbucket>]]);
 recipes.addShaped(<Botania:manaResource:15>, [[<ore:pearlEnder>, <ore:pearlEnder>, <ore:pearlEnder>], [<ore:pearlEnder>, <minecraft:glass_bottle>, <ore:pearlEnder>], [<ore:pearlEnder>, <ore:pearlEnder>, <ore:pearlEnder>]]);
 recipes.addShaped(<minecraft:mossy_cobblestone> * 8, [[<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>], [<minecraft:cobblestone>, <ore:listAllwater>, <ore:cobblestone>], [<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>]]);
-recipes.addShaped(<minecraft:mossy_cobblestone> * 8, [[<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>], [<ore:cobblestone>, <claybucket:claybucket:1>, <ore:cobblestone>], [<ore:cobblestone>, <ore:cobblestone>, <ore:cobblestone>]]);
 recipes.addShaped(<minecraft:paper> * 2, [[null, <ore:dustWood>, null], [<ore:dustWood>, <ore:listAllwater>, <ore:dustWood>], [null, <ore:dustWood>, null]]);
 recipes.addShaped(<OpenComputers:item:4>.withTag({"oc:data": {"oc:fs.label": "openos"}, "oc:color": 2, display: {Name: "OpenOS (Operating System)"}, "oc:lootFactory": "OpenComputers:openos"}), [[<Avaritia:Resource_Block:1>, <Avaritia:Resource_Block:1>, <Avaritia:Resource_Block:1>], [<Avaritia:Resource_Block:1>, <OpenComputers:item:4>, <Avaritia:Resource_Block:1>], [<Avaritia:Resource_Block:1>, <Avaritia:Resource_Block:1>, <Avaritia:Resource_Block:1>]]);

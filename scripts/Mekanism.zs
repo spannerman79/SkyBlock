@@ -5,8 +5,18 @@ mods.mekanism.Crusher.addRecipe(<Natura:floraleavesnocolor:1> * 4, <Mekanism:Bio
 furnace.addRecipe(<minecraft:dye:4> * 4, <MekanismTools:LapisLazuliBoots>);
 furnace.addRecipe(<minecraft:dye:4> * 5, <MekanismTools:LapisLazuliHelmet>);
 furnace.addRecipe(<minecraft:dye:4> * 2, <MekanismTools:LapisLazuliSword>);
+furnace.addRecipe(<minecraft:dye:4> * 8, <MekanismTools:LapisLazuliChestplate>);
+furnace.addRecipe(<minecraft:dye:4> * 7, <MekanismTools:LapisLazuliLeggings>);
 furnace.addRecipe(<Mekanism:Ingot:3> * 2, <MekanismTools:GlowstoneSword>);
 furnace.addRecipe(<Mekanism:Ingot:3> * 8, <MekanismTools:GlowstoneChestplate>);
 furnace.addRecipe(<Mekanism:Ingot:3> * 4, <MekanismTools:GlowstoneBoots>);
 furnace.addRecipe(<Mekanism:Ingot:3> * 7, <MekanismTools:GlowstoneLeggings>);
 furnace.addRecipe(<Mekanism:Ingot:1> * 5, <MekanismTools:OsmiumHelmet>);
+furnace.addRecipe(<Mekanism:Ingot:1> * 8, <MekanismTools:OsmiumChestplate>);
+furnace.addRecipe(<Mekanism:Ingot:3> * 5, <MekanismTools:GlowstoneHelmet>);
+furnace.addRecipe(<Mekanism:Ingot:1> * 4, <MekanismTools:OsmiumBoots>);
+furnace.addRecipe(<Mekanism:Ingot:1> * 2, <MekanismTools:OsmiumSword>);
+furnace.addRecipe(<Mekanism:Ingot:1> * 7, <MekanismTools:OsmiumLeggings>);
+mods.mekanism.Enrichment.addRecipe(<appliedenergistics2:item.ItemMultiMaterial:45>, <appliedenergistics2:tile.BlockSkyStone>);
+mods.mekanism.Enrichment.addRecipe(<minecraft:blaze_powder> * 4 , <minecraft:blaze_rod>);
+mods.mekanism.Crusher.addRecipe(<evilcraft:darkGem>, <evilcraft:darkGemCrushed>);

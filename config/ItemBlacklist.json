@@ -1,0 +1,34 @@
+{
+  "__GLOBAL__": [
+    {
+      "item": "Botania:manaGun",
+      "damage": "*"
+    },
+    {
+      "item": "MineFactoryReloaded:rubberwood.sapling",
+      "damage": 2
+    },
+    {
+      "item": "MineFactoryReloaded:rubberwood.sapling",
+      "damage": 1
+    },
+    {
+      "item": "MineFactoryReloaded:rubberwood.sapling",
+      "damage": 3
+    },
+    {
+      "item": "Botania:lens",
+      "damage": 7
+    },
+    {
+      "item": "Botania:laputaShard",
+      "damage": "*"
+    }
+  ],
+  "0": [
+    {
+      "item": "Thaumcraft:blockWoodenDevice",
+      "damage": 5
+    }
+  ]
+}
