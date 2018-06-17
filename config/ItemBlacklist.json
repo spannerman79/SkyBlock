@@ -5,18 +5,6 @@
       "damage": "*"
     },
     {
-      "item": "MineFactoryReloaded:rubberwood.sapling",
-      "damage": 2
-    },
-    {
-      "item": "MineFactoryReloaded:rubberwood.sapling",
-      "damage": 1
-    },
-    {
-      "item": "MineFactoryReloaded:rubberwood.sapling",
-      "damage": 3
-    },
-    {
       "item": "Botania:lens",
       "damage": 7
     },
