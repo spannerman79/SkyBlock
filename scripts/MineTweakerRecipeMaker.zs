@@ -28,6 +28,7 @@ recipes.remove(<evilcraft:colossalBloodChest>);
 
 // ================================================================================
 //#MARKER ADD SHAPELESS
+recipes.addShapeless(<evilcraft:originsOfDarkness>, [<evilcraft:darkenedApple>, <ore:itemBook>]);
 recipes.addShapeless(<minecraft:spawn_egg:90>, [<excompressum:bait:3>, <excompressum:bait:3>, <excompressum:bait:3>, <excompressum:bait:3>]);
 recipes.addShapeless(<minecraft:coal:1>, [<Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>, <Ztones:minicharcoal>]);
 recipes.addShapeless(<minecraft:coal>, [<Ztones:minicoal>, <Ztones:minicoal>, <Ztones:minicoal>, <Ztones:minicoal>, <Ztones:minicoal>, <Ztones:minicoal>, <Ztones:minicoal>, <Ztones:minicoal>]);
@@ -41,12 +42,10 @@ recipes.addShapeless(<minecraft:planks>, [<ore:stickWood>, <ore:stickWood>]);
 recipes.addShapeless(<minecraft:stick>, [<ore:fenceWood>, <ore:fenceWood>]);
 recipes.addShapeless(<minecraft:rotten_flesh> * 9, [<Thaumcraft:blockTaint:2>]);
 recipes.addShapeless(<evilcraft:boxOfEternalClosure>, [<evilcraft:boxOfEternalClosure>]);
-recipes.addShapeless(<Mekanism:Ingot:3> * 5, [<MekanismTools:GlowstoneHelmet>]);
 recipes.addShapeless(<minecraft:glowstone_dust> * 4, [<ore:glowstone>]);
 recipes.addShapeless(<minecraft:stonebrick> * 3, [<minecraft:stone_brick_stairs> * 4]);
 recipes.addShapeless(<minecraft:glass_bottle>, [<ore:bEnderAirBottle>]);
 recipes.addShapeless(<Thaumcraft:WandCasting>.withTag({aqua: 2500, terra: 2500, ignis: 2500, ordo: 2500, perditio: 2500, aer: 2500}), [<ore:shardAir>, <ore:shardFire>, <ore:shardWater>, <ore:shardEarth>, <Thaumcraft:WandCasting>, <ore:shardOrder>, <ore:shardEntropy>]);
-recipes.addShapeless(<Mekanism:Ingot:1> * 8, [<MekanismTools:OsmiumChestplate>]);
 recipes.addShapeless(<EnderIO:itemConduitProbe>, [<EnderIO:itemConduitProbe:1>]);
 recipes.addShapeless(<minecraft:torch> * 12, [<ore:blockCloth>, <ImmersiveEngineering:fluidContainers:1>, <ore:stickWood>]);
 recipes.addShapeless(<minecraft:torch> * 12, [<ore:blockCloth>, <ImmersiveEngineering:fluidContainers>, <ore:stickWood>]);

@@ -1,0 +1,4 @@
+//5x5 recipies
+//mods.biggercraftingtables.Big.addShaped(<minecraft:diamond_boots>,[[null,null,null,null,null],[null,null,null,null,null],[null,null,null,null,null],[null,null,null,null,null],[null,null,null,null,null]]);
+// Creative Sponge - Thermal Expansion
+mods.biggercraftingtables.Big.addShaped(<ThermalExpansion:Sponge>,[[<ore:string>,<ore:dustWood>,<ore:string>,<ore:dustWood>,<ore:string>],[<ore:dustWood>,<ThermalExpansion:Sponge:2>,<ore:dustWood>,<ThermalExpansion:Sponge:2>,<ore:dustWood>],[<ore:string>,<ore:dustWood>,<ore:string>,<ore:dustWood>,<ore:string>],[<ore:dustWood>,<ThermalExpansion:Sponge:2>,<ore:dustWood>,<ThermalExpansion:Sponge:2>,<ore:dustWood>],[<ore:string>,<ore:dustWood>,<ore:string>,<ore:dustWood>,<ore:string>]]);

@@ -1,0 +1,1 @@
+furnace.addRecipe(<minecraft:dye:4> * 17, <chancecubes:Chance_Cube>);
