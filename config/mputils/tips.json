@@ -18,6 +18,12 @@
       "block": "minecraft:log",
       "desc": "Use Wood to make stuff",
       "useOreDictonary": true
+    },
+    {
+      "tipID": "bloodtank1",
+      "tipName": "Blood Tanks",
+      "block": "Sanguimancy:BlockBloodTank",
+      "desc": "Blood Tanks Tier 2 and \nhigher will reset after a server restart"
     }
   ],
   "TOOLTIP": [
@@ -26,6 +32,12 @@
       "tipName": "Redstone ToolTip",
       "item": "minecraft:redstone",
       "desc": "Use redstone to power \nyour devices"
+    },
+    {
+      "tipID": "bloodtank2",
+      "tipName": "Blood Tanks2",
+      "block": "Sanguimancy:BlockBloodTank",
+      "desc": "Blood Tanks Tier 2 and \nhigher will reset after a server restart"
     }
   ],
   "INFO": [

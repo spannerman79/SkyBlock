@@ -12,6 +12,7 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<BetterFarmland:CropVacuum>);
 recipes.remove(<OpenComputers:item:35>);
 recipes.remove(<extracells:hardmedrive>);
 recipes.remove(<OpenComputers:item:4>.withTag({"oc:data": {"oc:fs.label": "openos"}, "oc:color": 2, display: {Name: "OpenOS (Operating System)"}, "oc:lootFactory": "OpenComputers:openos"}));
@@ -59,6 +60,8 @@ recipes.addShapeless(<minecraft:spawn_egg:94>, [<excompressum:bait:6>, <excompre
 
 // ================================================================================
 //#MARKER ADD SHAPED
+recipes.addShaped(<recycling:tile.FertileLand> * 9, [[<additionalcompression:compressed_bottlewater>.transformReplace(<minecraft:glass_bottle> * 9), (<recycling:Material:1> * 9)], [<ore:compressedDirt1x>, null]]);
+recipes.addShaped(<ThermalFoundation:material:64>, [[<ore:nuggetCopper>, <ore:nuggetCopper>, <ore:nuggetCopper>], [<ore:nuggetCopper>, <ore:nuggetCopper>, <ore:nuggetCopper>], [<ore:nuggetCopper>, <ore:nuggetCopper>, <ore:nuggetCopper>]]);
 recipes.addShaped(<minecraft:glowstone_dust> * 4, [[<ore:nuggetGold>, <ore:dustRedstone>, <ore:nuggetGold>], [<ore:dustRedstone>, <ore:nuggetGold>, <ore:dustRedstone>], [<ore:nuggetGold>, <ore:dustRedstone>, <ore:nuggetGold>]]);
 recipes.addShaped(<Thaumcraft:ItemShard:4> * 4, [[<Thaumcraft:ItemBaubleBlanks:7>, <Thaumcraft:ItemBaubleBlanks:7>], [<Thaumcraft:ItemBaubleBlanks:7>, null]]);
 recipes.addShaped(<evilcraft:colossalBloodChest>, [[<evilcraft:reinforcedUndeadPlank>, <evilcraft:bloodChest>, <evilcraft:reinforcedUndeadPlank>], [<evilcraft:reinforcedUndeadPlank>, <evilcraft:bloodInfusionCore>, <evilcraft:reinforcedUndeadPlank>]]);

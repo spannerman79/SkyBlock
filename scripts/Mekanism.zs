@@ -17,7 +17,6 @@ mods.mekanism.Crusher.addRecipe(<Natura:floraleavesnocolor:1> * 4, <Mekanism:Bio
 //furnace.addRecipe(<Mekanism:Ingot:1> * 4, <MekanismTools:OsmiumBoots>);
 //furnace.addRecipe(<Mekanism:Ingot:1> * 2, <MekanismTools:OsmiumSword>);
 //furnace.addRecipe(<Mekanism:Ingot:1> * 7, <MekanismTools:OsmiumLeggings>);
-//furnace.addRecipe(<Mekanism:Ingot:1> * 8, [<MekanismTools:OsmiumChestplate>]);
 mods.mekanism.Enrichment.addRecipe(<appliedenergistics2:item.ItemMultiMaterial:45>, <appliedenergistics2:tile.BlockSkyStone>);
 mods.mekanism.Enrichment.addRecipe(<minecraft:blaze_powder> * 4 , <minecraft:blaze_rod>);
 mods.mekanism.Crusher.addRecipe(<evilcraft:darkGem>, <evilcraft:darkGemCrushed>);

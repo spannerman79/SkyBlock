@@ -10,3 +10,11 @@ RandomThings:fertilizedDirt_tilled
 GardenCore:garden_farmland
 MineFactoryReloaded:farmland
 MagicBees:magicbees.enchantedEarth
+BetterFarmland:farmlandBase
+BetterFarmland:farmlandStone
+BetterFarmland:farmlandIron
+BetterFarmland:farmlandGold
+BetterFarmland:farmlandDiamond
+BetterFarmland:farmlandEmerald
+BetterFarmland:farmlandNetherStar
+recycling:tile.FertileLand

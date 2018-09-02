@@ -1,0 +1,1 @@
+mods.exnihilo.Sieve.addRecipe(<minecraft:soul_sand>, <Railcraft:firestone.raw>, 100);
