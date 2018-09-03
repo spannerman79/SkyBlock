@@ -12,6 +12,8 @@
 
 // ================================================================================
 //#MARKER REMOVE
+recipes.remove(<BuildCraft|Builders:fillerBlock>);
+recipes.remove(<AkutoEngine:fillerEX>);
 recipes.remove(<BetterFarmland:CropVacuum>);
 recipes.remove(<OpenComputers:item:35>);
 recipes.remove(<extracells:hardmedrive>);
@@ -60,7 +62,7 @@ recipes.addShapeless(<minecraft:spawn_egg:94>, [<excompressum:bait:6>, <excompre
 
 // ================================================================================
 //#MARKER ADD SHAPED
-recipes.addShaped(<recycling:tile.FertileLand> * 9, [[<additionalcompression:compressed_bottlewater>.transformReplace(<minecraft:glass_bottle> * 9), (<recycling:Material:1> * 9)], [<ore:compressedDirt1x>, null]]);
+recipes.addShaped(<AkutoEngine:fillerEX>, [[<ore:dyeBlack>, <BuildCraft|Core:markerBlock>, <ore:dyeBlack>], [<ore:dyeYellow>, <ore:craftingTableWood>, <ore:dyeYellow>], [<ore:thermalexpansion:machineGold>, <ore:chest>, <ore:gearGold>]]);
 recipes.addShaped(<ThermalFoundation:material:64>, [[<ore:nuggetCopper>, <ore:nuggetCopper>, <ore:nuggetCopper>], [<ore:nuggetCopper>, <ore:nuggetCopper>, <ore:nuggetCopper>], [<ore:nuggetCopper>, <ore:nuggetCopper>, <ore:nuggetCopper>]]);
 recipes.addShaped(<minecraft:glowstone_dust> * 4, [[<ore:nuggetGold>, <ore:dustRedstone>, <ore:nuggetGold>], [<ore:dustRedstone>, <ore:nuggetGold>, <ore:dustRedstone>], [<ore:nuggetGold>, <ore:dustRedstone>, <ore:nuggetGold>]]);
 recipes.addShaped(<Thaumcraft:ItemShard:4> * 4, [[<Thaumcraft:ItemBaubleBlanks:7>, <Thaumcraft:ItemBaubleBlanks:7>], [<Thaumcraft:ItemBaubleBlanks:7>, null]]);
