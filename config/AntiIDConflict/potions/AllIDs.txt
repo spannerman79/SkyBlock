@@ -1,5 +1,5 @@
-Total amount of free potion ids: 1973
-Total amount of occupied potion ids: 79
+Total amount of free potion ids: 1970
+Total amount of occupied potion ids: 82
 Total amount of conflicted potion ids: 0
 All ids and their position:
 0 is Avaible
@@ -62,9 +62,9 @@ All ids and their position:
 57 is Avaible
 58 is Avaible
 59 is Avaible
-60 is Avaible
-61 is Avaible
-62 is Avaible
+60 is Occupied by wg.potionCinderCoat (witchinggadgets.common.magic.WGPotion)
+61 is Occupied by wg.potionDissolve (witchinggadgets.common.magic.WGPotion)
+62 is Occupied by wg.potionKnockbackRes (witchinggadgets.common.magic.WGPotion)
 63 is Avaible
 64 is Avaible
 65 is Avaible

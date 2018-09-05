@@ -1,2 +1,0 @@
-recipes.addShaped(<excompressum:compressedCrook>, [[<exnihilo:crook>, <exnihilo:crook>, <exnihilo:crook>], [<exnihilo:crook>, <exnihilo:crook>, <exnihilo:crook>], [<exnihilo:crook>, <exnihilo:crook>, <exnihilo:crook>]]);
-<excompressum:compressedHammerStone>.maxDamage=1179;

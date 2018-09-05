@@ -1,0 +1,13 @@
+The following problems were encountered while loading the config files:
+stack_size.cfg 'stack_sizes' #45: The following block or item doesn't seem to exist: 'MineFactoryReloaded:safarinet_reusable'.
+
+stack_size.cfg 'stack_sizes' #46: The following block or item doesn't seem to exist: 'MineFactoryReloaded:safarinet'.
+
+stack_size.cfg 'stack_sizes' #69: The following block or item doesn't seem to exist: 'Ztones:ofanix'.
+
+stack_size.cfg 'stack_sizes' #80: The following block or item doesn't seem to exist: 'witchery:witchhand'.
+
+stack_size.cfg 'stack_sizes' #85: The following block or item doesn't seem to exist: 'RandomThings:whitestone:1'.
+
+stack_size.cfg 'stack_sizes' #98: The following block or item doesn't seem to exist: 'MekanismTools:SteelSword'.
+
