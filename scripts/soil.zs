@@ -1,1 +1,0 @@
-//recipes.addShapeless(<recycling:tile.FertileLand> * 9, [<additionalcompression:compressed_bottlewater>.transformReplace(<minecraft:glass_bottle> * 9), <recycling:Material:1> * 9, <ore:compressedDirt1x>]);
