@@ -59,9 +59,9 @@
 -42 is Occupied by: The Outer Lands, Provider: (id: -42, class: class thaumcraft.common.lib.world.dim.WorldProviderOuter)
 -41 is Avaible
 -40 is Avaible
--39 is Avaible
--38 is Avaible
--37 is Avaible
+-39 is Occupied by: Mirror, Provider: (id: -39, class: class com.emoniph.witchery.dimension.WorldProviderMirror)
+-38 is Occupied by: Torment, Provider: (id: -38, class: class com.emoniph.witchery.dimension.WorldProviderTorment)
+-37 is Occupied by: Spirit World, Provider: (id: -37, class: class com.emoniph.witchery.dimension.WorldProviderDreamWorld)
 -36 is Avaible
 -35 is Avaible
 -34 is Avaible
@@ -150,7 +150,7 @@
 49 is Avaible
 50 is Avaible
 51 is Avaible
-52 is Avaible
+52 is Occupied by: Omothol, Provider: (id: 52, class: class com.shinoow.abyssalcraft.common.world.WorldProviderOmothol)
 53 is Occupied by: First World, Provider: (id: 53, class: class ec3.common.world.WorldProviderFirstWorld)
 54 is Avaible
 55 is Avaible
@@ -158,9 +158,9 @@
 57 is Avaible
 58 is Avaible
 59 is Avaible
-60 is Avaible
-61 is Avaible
-62 is Avaible
+60 is Occupied by: The Abyssal Wasteland, Provider: (id: 60, class: class com.shinoow.abyssalcraft.common.world.WorldProviderAbyss)
+61 is Occupied by: The Dreadlands, Provider: (id: 61, class: class com.shinoow.abyssalcraft.common.world.WorldProviderDreadlands)
+62 is Occupied by: The Dark Realm, Provider: (id: 62, class: class com.shinoow.abyssalcraft.common.world.WorldProviderDarkRealm)
 63 is Avaible
 64 is Avaible
 65 is Avaible

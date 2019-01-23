@@ -1,5 +1,5 @@
-Total amount of free potion ids: 1973
-Total amount of occupied potion ids: 79
+Total amount of free potion ids: 2015
+Total amount of occupied potion ids: 133
 Total amount of conflicted potion ids: 0
 All ids and their position:
 0 is Avaible
@@ -34,63 +34,63 @@ All ids and their position:
 29 is Occupied by ic2.potion.radiation (ic2.core.IC2Potion)
 30 is Occupied by potion.antiWither (thor12022.hardcorewither.potions.PotionAntiWither)
 31 is Occupied by potion.visexhaust (thaumcraft.api.potions.PotionVisExhaust)
-32 is Occupied by potion.infvisexhaust (thaumcraft.common.lib.potions.PotionInfectiousVisExhaust)
-33 is Occupied by potion.unhunger (thaumcraft.common.lib.potions.PotionUnnaturalHunger)
-34 is Occupied by potion.warpward (thaumcraft.common.lib.potions.PotionWarpWard)
-35 is Occupied by potion.deathgaze (thaumcraft.common.lib.potions.PotionDeathGaze)
-36 is Occupied by potion.blurred (thaumcraft.common.lib.potions.PotionBlurredVision)
-37 is Occupied by potion.sunscorned (thaumcraft.common.lib.potions.PotionSunScorned)
-38 is Occupied by potion.thaumarhia (thaumcraft.common.lib.potions.PotionThaumarhia)
-39 is Avaible
+32 is Occupied by witchery:potion.paralysed (com.emoniph.witchery.brewing.potions.PotionParalysis)
+33 is Occupied by witchery:potion.wrappedinvine (com.emoniph.witchery.brewing.potions.PotionWrappedInVine)
+34 is Occupied by witchery:potion.spiked (com.emoniph.witchery.brewing.potions.PotionSpiked)
+35 is Occupied by witchery:potion.sprouting (com.emoniph.witchery.brewing.potions.PotionSprouting)
+36 is Occupied by witchery:potion.grotesque (com.emoniph.witchery.brewing.potions.PotionGrotesque)
+37 is Occupied by witchery:potion.love (com.emoniph.witchery.brewing.potions.PotionLove)
+38 is Occupied by witchery:potion.allergysun (com.emoniph.witchery.brewing.potions.PotionSunAllergy)
+39 is Occupied by witchery:potion.chilled (com.emoniph.witchery.brewing.potions.PotionChilled)
 40 is Occupied by potion.featherfall (enhancedportals.item.PotionFeatherfall)
-41 is Avaible
-42 is Avaible
-43 is Avaible
-44 is Avaible
-45 is Avaible
-46 is Avaible
-47 is Avaible
-48 is Avaible
-49 is Avaible
-50 is Avaible
-51 is Avaible
-52 is Avaible
-53 is Avaible
-54 is Avaible
-55 is Avaible
-56 is Avaible
-57 is Avaible
-58 is Avaible
-59 is Avaible
-60 is Avaible
-61 is Avaible
-62 is Avaible
-63 is Avaible
-64 is Avaible
-65 is Avaible
-66 is Avaible
-67 is Avaible
-68 is Avaible
-69 is Avaible
+41 is Occupied by witchery:potion.floating (com.emoniph.witchery.brewing.potions.PotionFloating)
+42 is Occupied by witchery:potion.hellishaura (com.emoniph.witchery.brewing.potions.PotionHellishAura)
+43 is Occupied by witchery:potion.brewingexpertise (com.emoniph.witchery.brewing.potions.PotionBrewingExpertise)
+44 is Occupied by witchery:potion.doublejump (com.emoniph.witchery.brewing.potions.PotionBase)
+45 is Occupied by witchery:potion.featherfall (com.emoniph.witchery.brewing.potions.PotionFeatherFall)
+46 is Occupied by witchery:potion.allergydark (com.emoniph.witchery.brewing.potions.PotionDarknessAllergy)
+47 is Occupied by witchery:potion.reincarnate (com.emoniph.witchery.brewing.potions.PotionReincarnate)
+48 is Occupied by witchery:potion.insane (com.emoniph.witchery.brewing.potions.PotionInsanity)
+49 is Occupied by witchery:potion.keepinventory (com.emoniph.witchery.brewing.potions.PotionKeepInventory)
+50 is Occupied by witchery:potion.sinking (com.emoniph.witchery.brewing.potions.PotionSinking)
+51 is Occupied by witchery:potion.overheating (com.emoniph.witchery.brewing.potions.PotionOverheating)
+52 is Occupied by witchery:potion.wakingnightmare (com.emoniph.witchery.brewing.potions.PotionWakingNightmare)
+53 is Occupied by witchery:potion.queasy (com.emoniph.witchery.brewing.potions.PotionQueasy)
+54 is Occupied by witchery:potion.swimming (com.emoniph.witchery.brewing.potions.PotionSwimming)
+55 is Occupied by witchery:potion.resizing (com.emoniph.witchery.brewing.potions.PotionResizing)
+56 is Occupied by witchery:potion.colorful (com.emoniph.witchery.brewing.potions.PotionColorful)
+57 is Occupied by witchery:potion.enderinhibition (com.emoniph.witchery.brewing.potions.PotionEnderInhibition)
+58 is Occupied by witchery:potion.illfitting (com.emoniph.witchery.brewing.potions.PotionIllFitting)
+59 is Occupied by witchery:potion.volatility (com.emoniph.witchery.brewing.potions.PotionVolatility)
+60 is Occupied by wg.potionCinderCoat (witchinggadgets.common.magic.WGPotion)
+61 is Occupied by wg.potionDissolve (witchinggadgets.common.magic.WGPotion)
+62 is Occupied by wg.potionKnockbackRes (witchinggadgets.common.magic.WGPotion)
+63 is Occupied by witchery:potion.poisonweapons (com.emoniph.witchery.brewing.potions.PotionPoisonWeapons)
+64 is Occupied by witchery:potion.reflectprojectiles (com.emoniph.witchery.brewing.potions.PotionReflectProjectiles)
+65 is Occupied by witchery:potion.reflectdamage (com.emoniph.witchery.brewing.potions.PotionReflectDamage)
+66 is Occupied by witchery:potion.attractprojectiles (com.emoniph.witchery.brewing.potions.PotionAttractProjectiles)
+67 is Occupied by witchery:potion.repellattacker (com.emoniph.witchery.brewing.potions.PotionRepellAttacker)
+68 is Occupied by witchery:potion.stoutbelly (com.emoniph.witchery.brewing.potions.PotionStoutBelly)
+69 is Occupied by witchery:potion.feelnopain (com.emoniph.witchery.brewing.potions.PotionFeelNoPain)
 70 is Occupied by potion.blood_seal (fox.spiteful.forbidden.potions.PotionBloodSeal)
-71 is Avaible
-72 is Avaible
-73 is Avaible
-74 is Avaible
-75 is Avaible
-76 is Avaible
-77 is Avaible
-78 is Avaible
-79 is Avaible
-80 is Avaible
-81 is Avaible
+71 is Occupied by witchery:potion.gasmask (com.emoniph.witchery.brewing.potions.PotionGasMask)
+72 is Occupied by witchery:potion.diseased (com.emoniph.witchery.brewing.potions.PotionDiseased)
+73 is Occupied by witchery:potion.fortune (com.emoniph.witchery.brewing.potions.PotionFortune)
+74 is Occupied by witchery:potion.worship (com.emoniph.witchery.brewing.potions.PotionWorship)
+75 is Occupied by witchery:potion.keepeffects (com.emoniph.witchery.brewing.potions.PotionKeepEffectsOnDeath)
+76 is Occupied by witchery:potion.wolfsbane (com.emoniph.witchery.brewing.potions.PotionBase)
+77 is Occupied by witchery:potion.snowtrail (com.emoniph.witchery.brewing.potions.PotionSnowTrail)
+78 is Occupied by potion.infvisexhaust (thaumcraft.common.lib.potions.PotionInfectiousVisExhaust)
+79 is Occupied by potion.unhunger (thaumcraft.common.lib.potions.PotionUnnaturalHunger)
+80 is Occupied by potion.warpward (thaumcraft.common.lib.potions.PotionWarpWard)
+81 is Occupied by potion.deathgaze (thaumcraft.common.lib.potions.PotionDeathGaze)
 82 is Occupied by techno:drown (theflogat.technomancy.common.potions.PotionTechnom)
 83 is Occupied by techno:slowFall (theflogat.technomancy.common.potions.PotionTechnom)
-84 is Avaible
-85 is Avaible
+84 is Occupied by potion.blurred (thaumcraft.common.lib.potions.PotionBlurredVision)
+85 is Occupied by potion.sunscorned (thaumcraft.common.lib.potions.PotionSunScorned)
 86 is Occupied by Fire Imbued (thaumic.tinkerer.common.potion.DummyPotions)
 87 is Occupied by Water Imbued (thaumic.tinkerer.common.potion.DummyPotions)
-88 is Avaible
+88 is Occupied by potion.thaumarhia (thaumcraft.common.lib.potions.PotionThaumarhia)
 89 is Occupied by Earth Imbued (thaumic.tinkerer.common.potion.DummyPotions)
 90 is Occupied by Air Imbued (thaumic.tinkerer.common.potion.DummyPotions)
 91 is Occupied by botania.potion.soulCross (vazkii.botania.common.brew.potion.PotionSoulCross)
@@ -101,7 +101,7 @@ All ids and their position:
 96 is Occupied by botania.potion.clear (vazkii.botania.common.brew.potion.PotionClear)
 97 is Occupied by AddHeart (tombenpotter.sanguimancy.potion.PotionAddHeart)
 98 is Occupied by RemoveHeart (tombenpotter.sanguimancy.potion.PotionRemoveHeart)
-99 is Avaible
+99 is Occupied by witchery:potion.enslaved (com.emoniph.witchery.brewing.potions.PotionEnslaved)
 100 is Occupied by Drowning (WayofTime.alchemicalWizardry.common.potion.PotionDrowning)
 101 is Occupied by Boost (WayofTime.alchemicalWizardry.common.potion.PotionBoost)
 102 is Occupied by Whirlwind (WayofTime.alchemicalWizardry.common.potion.PotionProjectileProtect)
@@ -119,7 +119,7 @@ All ids and their position:
 114 is Occupied by Feather Fall (WayofTime.alchemicalWizardry.common.potion.PotionFeatherFall)
 115 is Occupied by Demon Cloaking (WayofTime.alchemicalWizardry.common.potion.PotionDemonCloak)
 116 is Occupied by Amphibian (WayofTime.alchemicalWizardry.common.potion.PotionAmphibian)
-117 is Avaible
+117 is Occupied by witchery:potion.mortalcoil (com.emoniph.witchery.brewing.potions.PotionMortalCoil)
 118 is Occupied by potion.immortality (net.sparklepopprograms.resonanttoolbox.util.PotionReg)
 119 is Occupied by potion.taintWithdrawl (flaxbeard.thaumicexploration.misc.TXTaintPotion)
 120 is Occupied by potion.binding (flaxbeard.thaumicexploration.misc.TXPotion)
@@ -128,13 +128,13 @@ All ids and their position:
 123 is Occupied by Bleeding (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
 124 is Occupied by Swimming (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
 125 is Occupied by Soul Burn (com.arc.bloodarsenal.common.potion.PotionBloodArsenal)
-126 is Avaible
+126 is Occupied by witchery:potion.absorbmagic (com.emoniph.witchery.brewing.potions.PotionAbsorbMagic)
 127 is Avaible
 128 is Avaible
 129 is Avaible
-130 is Avaible
-131 is Avaible
-132 is Avaible
+130 is Occupied by potion.Cplague (com.shinoow.abyssalcraft.common.potion.PotionCplague)
+131 is Occupied by potion.Dplague (com.shinoow.abyssalcraft.common.potion.PotionDplague)
+132 is Occupied by potion.Antimatter (com.shinoow.abyssalcraft.common.potion.PotionAntimatter)
 133 is Avaible
 134 is Avaible
 135 is Avaible
@@ -162,10 +162,10 @@ All ids and their position:
 157 is Avaible
 158 is Avaible
 159 is Avaible
-160 is Avaible
-161 is Avaible
-162 is Avaible
-163 is Avaible
+160 is Occupied by potion.chemical (stevekung.mods.moreplanets.planets.kapteynb.potion.ChemicalEffect)
+161 is Occupied by potion.emp (stevekung.mods.moreplanets.planets.diona.potion.EMPEffect)
+162 is Occupied by potion.icy_poison (stevekung.mods.moreplanets.planets.kapteynb.potion.IceCrystalEffect)
+163 is Occupied by potion.infected.gas (stevekung.mods.moreplanets.planets.nibiru.potion.InfectedGasEffect)
 164 is Avaible
 165 is Avaible
 166 is Avaible

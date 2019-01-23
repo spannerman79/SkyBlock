@@ -1,0 +1,2 @@
+mods.exnihilo.Sieve.addRecipe(<additionalcompression:compressed_leather>, <AkutoEngine:coreElemntary2>, 200);
+mods.exnihilo.Sieve.addRecipe(<additionalcompression:compressed_feather>, <AkutoEngine:coreElemntary>, 200);

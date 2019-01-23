@@ -2,3 +2,4 @@
 # Proper syntax is "NAME META". Example (for stone):
 # minecraft:stone 0
 Thaumcraft:blockAiry 0
+compactstorage:compactChest 0

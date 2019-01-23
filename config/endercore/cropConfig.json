@@ -23,6 +23,11 @@
             "meta":7
         },
         {
+            "seed":"magicalcrops:MinicioSeeds",
+            "block":"magicalcrops:MinicioCrop",
+            "meta":7
+        },
+        {
             "seed":"magicalcrops:AirSeeds",
             "block":"magicalcrops:AirCrop",
             "meta":7

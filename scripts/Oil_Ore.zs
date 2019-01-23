@@ -1,0 +1,3 @@
+recipes.addShapeless(<GYTH:modularTank>.withTag({Tier: 1, Fluid: {FluidName: "oil", Amount: 4000}, TierName: "oak", TankCapacity: 4}), [<GYTH:modularTank>.withTag({Tier: 1, TierName: "oak", TankCapacity: 4}), <sbmoilore:oilItem>, <sbmoilore:oilItem>]);
+mods.exnihilo.Sieve.addRecipe(<minecraft:gravel>, <sbmoilore:oilItem>, 10);
+recipes.addShapeless(<GalacticraftCore:item.bucketOil>, [<sbmoilore:oilItem>, <minecraft:bucket>]);

@@ -1,0 +1,15 @@
+{
+    groupId : "milk",
+    groupName : "Milk Conversion",
+    fluidElements : [
+        {
+            fluidName: "milk",
+            value: 1.0
+        },
+        {
+            fluidName: "bamilk",
+            value: 1.0
+        }
+    ],
+	hasRecipe : true
+}

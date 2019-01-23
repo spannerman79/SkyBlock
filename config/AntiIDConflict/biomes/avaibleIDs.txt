@@ -1,7 +1,5 @@
-Total amount of free biome ids: C:\Users\Leader\MultiMC\instances\AUPlay_Skyblock_ProjectE\minecraft\config\AntiIDConflict\biomes\avaibleIDs.txt
+Total amount of free biome ids: C:\Users\David Roussel\MultiMC\instances\PieInTheSky\.minecraft\config\AntiIDConflict\biomes\avaibleIDs.txt
 List of free biome ids:
-60
-61
 62
 63
 64
@@ -32,6 +30,8 @@ List of free biome ids:
 90
 97
 98
+100
+101
 107
 108
 109
@@ -66,19 +66,6 @@ List of free biome ids:
 159
 168
 169
-170
-171
-172
-173
-174
-175
-176
-177
-178
-179
-180
-181
-182
 183
 184
 185
@@ -92,8 +79,6 @@ List of free biome ids:
 197
 198
 199
-200
-201
 202
 203
 204
@@ -102,8 +87,6 @@ List of free biome ids:
 207
 208
 209
-210
-211
 212
 213
 214
@@ -112,13 +95,6 @@ List of free biome ids:
 217
 218
 219
-220
-221
-222
-223
-224
-225
-226
 227
 228
 229
@@ -132,11 +108,5 @@ List of free biome ids:
 237
 238
 239
-240
-241
-242
 243
-244
-245
-246
 255

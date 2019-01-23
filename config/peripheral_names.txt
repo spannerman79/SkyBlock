@@ -1,5 +1,10 @@
 #OpenPeripheral user-friendly names
 #class_name	user_name
+Akuto2Mod.TileEntity.TileTankEX	tile_tankex
+com.jaquadro.minecraft.storagedrawers.block.tile.TileEntityDrawersComp	storagedrawers_container_compdrawers
+kr.loveholy.exastrisrebirth.tileentity.TileEntityBarrelTweak	peripheral
+mods.immibis.lxp.AbsorberTile	immibis_lxp_absorber
+net.blay09.mods.excompressum.tile.TileEntityWoodenCrucible	peripheral
 net.minecraft.block.BlockJukebox$TileEntityJukebox	record_player
 net.minecraft.tileentity.TileEntityBeacon	beacon
 net.minecraft.tileentity.TileEntityBrewingStand	brewing_stand
@@ -16,3 +21,7 @@ net.minecraft.tileentity.TileEntityHopper	hopper
 net.minecraft.tileentity.TileEntityNote	note_block
 net.minecraft.tileentity.TileEntitySign	sign
 net.minecraft.tileentity.TileEntitySkull	skull
+tconstruct.tools.logic.PartBuilderLogic	toolstation_parts
+tconstruct.tools.logic.PatternChestLogic	toolstation_patternholder
+tconstruct.tools.logic.StencilTableLogic	toolstation_patternshaper
+tconstruct.tools.logic.ToolStationLogic	peripheral

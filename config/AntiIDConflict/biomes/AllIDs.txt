@@ -1,5 +1,5 @@
-Total amount of free biome ids: 140
-Total amount of occupied biome ids: 116
+Total amount of free biome ids: 110
+Total amount of occupied biome ids: 146
 Total amount of conflicted biome ids: 0
 All ids and their position:
 0 is Occupied by Ocean (net.minecraft.world.biome.BiomeGenOcean)
@@ -62,8 +62,8 @@ All ids and their position:
 57 is Occupied by Enchanted Forest (twilightforest.biomes.TFBiomeEnchantedForest)
 58 is Occupied by Fire Swamp (twilightforest.biomes.TFBiomeFireSwamp)
 59 is Occupied by Thornlands (twilightforest.biomes.TFBiomeThornlands)
-60 is Avaible
-61 is Avaible
+60 is Occupied by Desert Oil Field (buildcraft.energy.worldgen.BiomeGenOilDesert)
+61 is Occupied by Ocean Oil Field (buildcraft.energy.worldgen.BiomeGenOilOcean)
 62 is Avaible
 63 is Avaible
 64 is Avaible
@@ -102,8 +102,8 @@ All ids and their position:
 97 is Avaible
 98 is Avaible
 99 is Occupied by Pocket Dimension (net.gtn.dimensionalpocket.common.core.BiomeHelper$1)
-100 is Occupied by Desert Oil Field (buildcraft.energy.worldgen.BiomeGenOilDesert)
-101 is Occupied by Ocean Oil Field (buildcraft.energy.worldgen.BiomeGenOilOcean)
+100 is Avaible
+101 is Avaible
 102 is Occupied by moon (micdoodle8.mods.galacticraft.core.world.gen.BiomeGenFlatMoon)
 103 is Occupied by marsFlat (micdoodle8.mods.galacticraft.planets.mars.world.gen.BiomeGenFlatMars)
 104 is Occupied by asteroids (micdoodle8.mods.galacticraft.planets.asteroids.world.gen.BiomeGenBaseAsteroids)
@@ -172,19 +172,19 @@ All ids and their position:
 167 is Occupied by Mesa Plateau M (net.minecraft.world.biome.BiomeGenMesa)
 168 is Avaible
 169 is Avaible
-170 is Avaible
-171 is Avaible
-172 is Avaible
-173 is Avaible
-174 is Avaible
-175 is Avaible
-176 is Avaible
-177 is Avaible
-178 is Avaible
-179 is Avaible
-180 is Avaible
-181 is Avaible
-182 is Avaible
+170 is Occupied by Abyssal Wastelands (com.shinoow.abyssalcraft.common.world.biome.BiomeGenAbywasteland)
+171 is Occupied by Coralium Infested Swamp (com.shinoow.abyssalcraft.common.world.biome.BiomeGenCorSwamp)
+172 is Occupied by Dark Realm (com.shinoow.abyssalcraft.common.world.biome.BiomeGenDarkRealm)
+173 is Occupied by Darklands (com.shinoow.abyssalcraft.common.world.biome.BiomeGenDarklands)
+174 is Occupied by Darklands Forest (com.shinoow.abyssalcraft.common.world.biome.BiomeGenDarklandsForest)
+175 is Occupied by Darklands Highland (com.shinoow.abyssalcraft.common.world.biome.BiomeGenDarklandsHills)
+176 is Occupied by Darklands Mountains (com.shinoow.abyssalcraft.common.world.biome.BiomeGenDarklandsMountains)
+177 is Occupied by Darklands Plains (com.shinoow.abyssalcraft.common.world.biome.BiomeGenDarklandsPlains)
+178 is Occupied by Dreadlands (com.shinoow.abyssalcraft.common.world.biome.BiomeGenDreadlands)
+179 is Occupied by Dreadlands Forest (com.shinoow.abyssalcraft.common.world.biome.BiomeGenForestDreadlands)
+180 is Occupied by Dreadlands Mountains (com.shinoow.abyssalcraft.common.world.biome.BiomeGenMountainDreadlands)
+181 is Occupied by Omothol (com.shinoow.abyssalcraft.common.world.biome.BiomeGenOmothol)
+182 is Occupied by Purified Dreadlands (com.shinoow.abyssalcraft.common.world.biome.BiomeGenAbyDreadlands)
 183 is Avaible
 184 is Avaible
 185 is Avaible
@@ -202,8 +202,8 @@ All ids and their position:
 197 is Avaible
 198 is Avaible
 199 is Avaible
-200 is Avaible
-201 is Avaible
+200 is Occupied by Grassy Plains (stevekung.mods.moreplanets.planets.fronos.worldgen.biome.BiomeGenGrassyPlains)
+201 is Occupied by Candy Land (stevekung.mods.moreplanets.planets.fronos.worldgen.biome.BiomeGenCandyLand)
 202 is Avaible
 203 is Avaible
 204 is Avaible
@@ -212,8 +212,8 @@ All ids and their position:
 207 is Avaible
 208 is Avaible
 209 is Avaible
-210 is Avaible
-211 is Avaible
+210 is Occupied by Deimos (stevekung.mods.moreplanets.moons.deimos.worldgen.BiomeGenBaseDeimos)
+211 is Occupied by Phobos (stevekung.mods.moreplanets.moons.phobos.worldgen.BiomeGenBasePhobos)
 212 is Avaible
 213 is Avaible
 214 is Avaible
@@ -222,13 +222,13 @@ All ids and their position:
 217 is Avaible
 218 is Avaible
 219 is Avaible
-220 is Avaible
-221 is Avaible
-222 is Avaible
-223 is Avaible
-224 is Avaible
-225 is Avaible
-226 is Avaible
+220 is Occupied by Diona (stevekung.mods.moreplanets.planets.diona.worldgen.BiomeGenBaseDiona)
+221 is Occupied by Polongnius (stevekung.mods.moreplanets.planets.polongnius.worldgen.BiomeGenBasePolongnius)
+222 is Occupied by Nibiru (stevekung.mods.moreplanets.planets.nibiru.worldgen.BiomeGenBaseNibiru)
+223 is Occupied by Koentus (stevekung.mods.moreplanets.moons.koentus.worldgen.BiomeGenBaseKoentus)
+224 is Occupied by Coconut Forest (stevekung.mods.moreplanets.planets.fronos.worldgen.biome.BiomeGenCoconutForest)
+225 is Occupied by Kapteyn B (stevekung.mods.moreplanets.planets.kapteynb.worldgen.BiomeGenBaseKapteynB)
+226 is Occupied by Sirius B (stevekung.mods.moreplanets.planets.siriusb.worldgen.BiomeGenBaseSiriusB)
 227 is Avaible
 228 is Avaible
 229 is Avaible
@@ -242,13 +242,13 @@ All ids and their position:
 237 is Avaible
 238 is Avaible
 239 is Avaible
-240 is Avaible
-241 is Avaible
-242 is Avaible
+240 is Occupied by Mercury (stevekung.mods.moreplanets.planets.mercury.worldgen.BiomeGenBaseMercury)
+241 is Occupied by Venus (stevekung.mods.moreplanets.planets.venus.worldgen.BiomeGenBaseVenus)
+242 is Occupied by Pluto (stevekung.mods.moreplanets.planets.pluto.worldgen.BiomeGenBasePluto)
 243 is Avaible
-244 is Avaible
-245 is Avaible
-246 is Avaible
+244 is Occupied by Golden Field (stevekung.mods.moreplanets.planets.fronos.worldgen.biome.BiomeGenGoldenField)
+245 is Occupied by Purple Maple Forest (stevekung.mods.moreplanets.planets.fronos.worldgen.biome.BiomeGenPurpleMapleForest)
+246 is Occupied by Maple Forest (stevekung.mods.moreplanets.planets.fronos.worldgen.biome.BiomeGenMapleForest)
 247 is Occupied by Volcanic Desert M (erebus.world.biomes.BiomeVolcanicDesert)
 248 is Occupied by Undergound Jungle M (erebus.world.biomes.BiomeUndergroundJungle)
 249 is Occupied by Ulterior Outback M (erebus.world.biomes.BiomeUlteriorOutback)

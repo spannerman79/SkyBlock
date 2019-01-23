@@ -1,0 +1,1 @@
+#mods.gyth.Tiers.addTier(bedrockium, <ExtraUtilities:block_bedrockium>, <ExtraUtilities:bedrockiumIngot>, 6);
