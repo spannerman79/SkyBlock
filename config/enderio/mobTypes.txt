@@ -1,453 +1,453 @@
-golems.golem_wooden
-MorePlanet.FrozenSludgeling
-erebus.antlionMiniBoss
-Automagy.WispNether
-golems.golem_glowstone
-golems_addon_tconstruct.golem_copper
-extraplanets.EvolvedIceSlime
-customnpcs.npcskeleton
-ThaumicHorizons.MeatSlime
-MorePlanet.InfectedZombie
-golems.golem_coal
-golems_addon_tconstruct.golem_seared
-hardcorewither.BlazeMinion
-ThaumicHorizons.Seawolf
-customnpcs.npcelffemale
-erebus.botFly
-AWWayofTime.MinorDemonGruntGuardianEarth
-primitivemobs.Lily
-erebus.crushling
-ThaumicHorizons.Gravekeeper
-golems.golem_wool
-Blitz
-magianaturalis.ferociousRevenant
-extraplanets.EvolvedRedCreeper
-extraplanets.EvolvedPowerSkeleton
-Botania.botania:pixie
-Sanguimancy.EntityChickenMinion
-enderzoo.FallenMount
-MorePlanet.EvolvedWitch
-Giant
-Natura.Imp
-MorePlanet.Kiwi
-TwilightForest.Minotaur
-testdummy.Dummy
-MorePlanet.Grappy
-Silverfish
-erebus.blackWidow
-erebus.zombieAntSoldier
-Natura.FlameSpider
-AgriCraft.villagerFarmer
-golems.golem_end_stone
-golems_addon_tconstruct.golem_manyullyn
-golems.golem_bookshelf
-customnpcs.npccrystal
-golems.golem_emerald
-TwilightForest.Hostile Wolf
-Botania.botania:doppleganger
-TwilightForest.Twilight Kobold
-Thaumcraft.CultistKnight
-TwilightForest.Questing Ram
-golems_addon_tconstruct.golem_steel
-enderzoo.Enderminy
-TwilightForest.Naga
-primitivemobs.TravelingMerchant
-AWWayofTime.BoulderFist
-ThaumicHorizons.NightmareTH
-Thaumcraft.Wisp
-erebus.rhinoBeetle
-AWWayofTime.ShadeElemental
-SnowMan
-Thaumcraft.TaintedCreeper
-AWWayofTime.MinorDemonGrunt
-TConstruct.EdibleSlime
-erebus.snapper
-erebus.animatedBambooCrate
-OpenBlocks.Luggage
-ThaumicHorizons.LostSoul
-TwilightForest.Tower Boss
-AWWayofTime.MinorDemonGruntFire
-MorePlanet.PlutoAlien
-primitivemobs.Minion
+primitivemobs.RocketCreeper
 golems.golem_bedrock
-MorePlanet.Marshmallow
-Ozelot
-Thaumcraft.CultistCleric
-MorePlanet.SiriusCreeper
-Bat
-TwilightForest.Upper Goblin Knight
-MorePlanet.EvolvedInfectedSpiderBoss
-erebus.antlionBoss
-MorePlanet.PlutoCreeperBoss
-erebus.tarantulababy
-Thaumcraft.TaintSwarm
-Zombie
-erebus.sporeJet
-Witch
-TwilightForest.Adherent
-extraplanets.EvolvedBlaze
-ThaumicHorizons.GuardianPanther
-TwilightForest.Lich Minion
-ThaumicHorizons.Endersteed
-GalacticraftCore.AlienVillager
-Botania.botania:pinkWither
-primitivemobs.MimicChest
-erebus.antlion
-golems.golem_hardened_clay
-MorePlanet.KoentusianVillager
-MorePlanet.VenusianBlaze
-customnpcs.npcnagamale
-Thaumcraft.TravelingTrunk
-MorePlanet.FronosBossTemp
-customnpcs.npcelfmale
-TwilightForest.Hedge Spider
-grue.EntityGrue
-ThaumicHorizons.ChromaticSheep
-erebus.jumpingSpider
-TwilightForest.Unstable Ice Core
-erebus.leech
-ThaumicHorizons.VoltSlime
-Thaumcraft.TaintedVillager
-Forestry.butterflyGE
-extraplanets.EvolvedEnderman
-MorePlanet.Melon
-customnpcs.npczombiefemale
-erebus.titanBeetle
-ThaumicHorizons.NetherHound
-erebus.animatedChest
-golems_addon_tconstruct.golem_tin
-customnpcs.npchumanmale
-customnpcs.npcEnderman
-AWWayofTime.FireElemental
-TwilightForest.Block&Chain Goblin
-MorePlanet.SiriusMagmaCube
-Thaumcraft.EldritchCrab
-MorePlanet.SpaceWolf
-Thaumcraft.EldritchGolem
-Thaumcraft.CultistLeader
-Chicken
-Thaumcraft.TaintSwarmer
-CaveSpider
-golems.golem_ice
-MushroomCow
-Brian
-TwilightForest.WinterWolf
-TwilightForest.Bighorn Sheep
-moreShearables.ChickenNaked
-Thaumcraft.EldritchWarden
-golems_addon_tconstruct.golem_alum
-erebus.velvetWorm
-werewolf
-primitivemobs.BrainSlime
-erebus.umberGolemIdol
-extraplanets.CreeperBossSaturn
-Pig
-AWWayofTime.FallenAngel
-computronics.swarm
-erebus.solifuge
-ThaumicHorizons.Sheeder
-ThaumicHorizons.OrePig
-Thaumcraft.CultistPortal
-AWWayofTime.SmallEarthGolem
-Thaumcraft.TaintSpider
-TwilightForest.Knight Phantom
-MorePlanet.EuropaSquid
-golems.golem_tnt
-primitivemobs.LilyLurker
-MorePlanet.CreamGolem
-erebus.cicada
-TwilightForest.Forest Bunny
-Thaumcraft.GiantBrainyZombie
-golems.golem_sponge
-Sheep
-TwilightForest.Twilight Wraith
-GalacticraftCore.EvolvedSkeleton
-erebus.fireAnt
-primitivemobs.LostMiner
-customnpcs.npcvillager
-ThaumicHorizons.HorseSkeleton
-DraconicEvolution.EnderDragon
-MorePlanet.CheeseCow
-witherSkeleton
-customnpcs.npczombiemale
-Thaumcraft.InhabitedZombie
-erebus.bloodSnail
-Thaumcraft.EldritchGuardian
-AWWayofTime.AirElemental
-ThaumicExploration.TaintacleMinion
-GalacticraftMars.Sludgeling
-Skeleton
-erebus.animatedBlock
-golems_addon_tconstruct.golem_ardite
-Thaumcraft.Taintacle
-thaumicnexus.TaintCrawler
-erebus.moneySpider
-TwilightForest.Minoshroom
-Thaumcraft.TaintacleGiant
-MorePlanet.FronosVillager
-TwilightForest.Mini Ghast
-MorePlanet.KoentusSludgeling
-erebus.bombardierBeetleLarva
-TwilightForest.Stable Ice Core
-Spider
-golems_addon_tconstruct.golem_glue
-erebus.prayingMantis
-erebus.woodlouse
-Thaumcraft.Golem
-EnderDragon
-Mekanism.Robit
-Thaumcraft.TaintedChicken
-MorePlanet.CreamSlime
-TwilightForest.Troll
-VillagerGolem
-customnpcs.npchumanfemale
-Ghast
-moreShearables.CowNaked
-ThaumicHorizons.LunarWolf
-erebus.crushroom
-MineFactoryReloaded.mfrEntityPinkSlime
-erebus.botFlyLarva
-customnpcs.npcfurryfemale
-TConstruct.Crystal
-erebus.glowWorm
-customnpcs.CustomNpc
-TwilightForest.Glacier Penguin
-golems_addon_tconstruct.golem_alumite
-TwilightForest.Tower Ghast
-Thaumcraft.Firebat
-golems_addon_tconstruct.golem_alumbrass
-customnpcs.npcdwarfmale
-TwilightForest.Maze Slime
-TwilightForest.Loyal Zombie
-TwilightForest.Pinch Beetle
-magianaturalis.evilTrunk
-AWWayofTime.MinorDemonGruntWind
-MorePlanet.VenusianVillager
-erebus.beetle
-TwilightForest.HydraHead
-customnpcs.npcenderchibi
-Cow
-Natura.NitroCreeper
-TwilightForest.Forest Squirrel
-MorePlanet.CreamCat
+erebus.fireAntSoldier
 golems_addon_tconstruct.golem_cobalt
-erebus.scorpion
-TwilightForest.Wild Deer
-MorePlanet.Tomato
-ThaumicHorizons.GoldChicken
-customnpcs.npcnagafemale
-erebus.extractedBlock
-erebus.workerBee
-AWWayofTime.EarthElemental
-erebus.chameleonTick
-TwilightForest.Slime Beetle
-enderzoo.WitherCat
-Monster
-erebus.zombieAnt
-customnpcs.npcorcfmale
-customnpcs.NpcSlime
-primitivemobs.MotherSpider
+testdummy.Dummy
+Blizz
+golems_addon_tconstruct.golem_steel
+MorePlanet.CreamCat
+ThaumicHorizons.ChocolateCow
+Thaumcraft.TravelingTrunk
+golems_addon_tconstruct.golem_brownstone
+golems.golem_nether_brick
+customnpcs.npcenderchibi
+Sheep
+ThaumicExploration.TaintacleMinion
+ThaumicHorizons.NetherHound
+erebus.rhinoBeetle
+Thaumcraft.TaintedCow
+TConstruct.Crystal
+primitivemobs.MimicChest
 erebus.moth
-MorePlanet.VenusianSlime
-MorePlanet.CheeseSlime
-MorePlanet.SiriusBlaze
-customnpcs.npcfurrymale
-Slime
-erebus.solifugeSmall
-AWWayofTime.BileDemon
-MorePlanet.StrawberryChicken
-primitivemobs.TreasureSlime
-ThaumicHorizons.GolemTH
-golems_addon_tconstruct.golem_slime
-OpenBlocks.MiniMe
-golems.golem_leaf
-golems.golem_quartz
-WitherBoss
-Natura.FlameSpiderBaby
-MorePlanet.EuropaCrab
-TwilightForest.Swarm Spider
-MorePlanet.Bearry
-erebus.mosquito
-taintBreeder
-NetherOres.netherOresHellfish
-TwilightForest.Helmet Crab
-GalacticraftCore.EvolvedZombie
-hardcorewither.SkeletonMinion
+ThaumicHorizons.GoldChicken
+customnpcs.npcGolem
+Thaumcraft.ThaumSlime
+customnpcs.NpcDragon
+TwilightForest.Maze Slime
+Thaumcraft.InhabitedZombie
+AWWayofTime.MinorDemonGruntGuardianIce
+TwilightForest.Hostile Wolf
+Chicken
+MorePlanet.EuropaSquid
+TwilightForest.Tiny Bird
+Enderman
+primitivemobs.BabySpider
+erebus.lavaWebSpider
+Thaumcraft.TaintedChicken
+ThaumicHorizons.Sheeder
+golems.golem_gold
+erebus.leech
+OpenBlocks.Luggage
+TwilightForest.SnowGuardian
+Natura.FlameSpider
+erebus.glowWorm
+erebus.sporeJet
+controlledZombie
+AWWayofTime.MinorDemonGruntGuardianFire
+moreShearables.CowNaked
+enderzoo.FallenKnight
+erebus.woodlouse
+Thaumcraft.BrainyZombie
+TwilightForest.Stable Ice Core
+golems_addon_tconstruct.golem_ardite
+extraplanets.EvolvedRedCreeper
+golems.golem_bookshelf
+golems.golem_hardened_clay
+extraplanets.EvolvedPowerSkeleton
+CaveSpider
+customnpcs.npcEnderman
+TwilightForest.Forest Raven
+Giant
+TwilightForest.Pinch Beetle
 GalacticraftMars.CreeperBoss
 GalacticraftMars.Slimeling
-erebus.locust
-AWWayofTime.WingedFireDemon
-extraplanets.CreeperBossUranus
-TwilightForest.Ice Crystal
-golems_addon_tconstruct.golem_hambone
-TwilightForest.Mosquito Swarm
-TwilightForest.Mist Wolf
-TwilightForest.Harbinger Cube
-TwilightForest.RovingCube
-controlledZombie
-golems.golem_stained_clay
-golems.golem_stained_glass
-TwilightForest.Giant Miner
-erebus.pondskater
-enderzoo.FallenKnight
-golems.golem_redstone
-TwilightForest.Armored Giant
-primitivemobs.Sheepman
-MorePlanet.JellySlime
-erebus.umberGolem
-AWWayofTime.MinorDemonGruntIce
-customnpcs.npcdwarffemale
-Mekanism.BabySkeleton
-erebus.tarantula
-erebus.tarantulaminiboss
-erebus.gasVent
-MorePlanet.InfectedWorm
-erebus.punchroom
-Enderman
-Wolf
-MorePlanet.CheeseCubeBoss
-enderzoo.WitherWitch
-Thaumcraft.ThaumSlime
-erebus.honeyPotAnt
-GalacticraftCore.EvolvedCreeper
-primitivemobs.HauntedTool
-AWWayofTime.MinorDemonGruntGuardianWind
-customnpcs.npcorcfemale
-ThaumicHorizons.Familiar
-erebus.grasshopper
-ThaumicHorizons.ScholarChicken
-GalacticraftCore.EvolvedSpider
-MagicCookie.MagicCookieGolem
-EntityHorse
-golems_addon_tconstruct.golem_ender
-erebus.fireAntSoldier
-ThaumicHorizons.MedSlime
-Thaumcraft.TaintacleTiny
-primitivemobs.Chameleon
-TwilightForest.Tiny Bird
-foundry.gunSkeleton
-AWWayofTime.MinorDemonGruntEarth
-Squid
-customnpcs.NpcDragon
-Basalz
-AWWayofTime.IceDemon
+MorePlanet.SpaceWolf
+erebus.animatedChest
+customnpcs.npcelfmale
+hardcorewither.BlazeMinion
+AWWayofTime.MinorDemonGruntWind
 primitivemobs.Summoner
-Thaumcraft.Pech
-Thaumcraft.TaintedPig
-enderzoo.DireWolf
-golems.golem_obsidian
-MorePlanet.MilkCow
-erebus.magmaCrawler
-ThaumicHorizons.SelfShearingSheep
-golems.golem_sandstone
-golems.golem_straw
-hardcorewither.GhastMinion
-golems.golem_melon
-erebus.wasp
-TwilightForest.Yeti
-moreShearables.PigNaked
-ThaumicHorizons.TaintEaterPig
-golems_addon_tconstruct.golem_brownstone
+erebus.animatedBlock
+ThaumicHorizons.VoltSlime
 primitivemobs.BlazingJuggernaut
-LavaSlime
-AWWayofTime.Shade
-TwilightForest.Firefly
-erebus.wheatWeevil
-Sanguimancy.EntityPlayerPointer
-GalacticraftCore.EvolvedSkeletonBoss
-erebus.wisp
-TwilightForest.Twilight Lich
-extraplanets.EvolvedWitch
-golems.golem_glass
-erebus.dragonfly
-erebus.lavaWebSpider
-TwilightForest.Redscale Broodling
-Creeper
-extraplanets.CreeperBossNeptune
-AWWayofTime.MinorDemonGruntGuardianFire
-NuclearMonster
-AWWayofTime.MinorDemonGruntGuardianIce
-primitivemobs.SkeletonWarrior
-primitivemobs.SheepmanSmith
-golems.golem_gold
-TwilightForest.Forest Raven
-erebus.scytodes
-ThaumicHorizons.MercurialSlime
-extraplanets.EvolvedMiniEnderman
-extraplanets.EvolvedMagmaCube
-extraplanets.EvolvedBlueCreeper
-primitivemobs.BabySpider
-extraplanets.CreeperBossEris
-Thaumcraft.TaintedCow
-erebus.midgeSwarm
-Thaumcraft.TaintSpore
-TwilightForest.Hydra
-TwilightForest.Redcap Sapper
-primitivemobs.SupportCreeper
-netherfish
-TwilightForest.Wild Boar
-PigZombie
-ThaumicHorizons.ChocolateCow
-AWWayofTime.LowerGuardian
-primitivemobs.BewitchedTome
-Blizz
-Thaumcraft.TaintedSheep
-TwilightForest.Tower Termite
-erebus.fly
-TwilightForest.Snow Queen
-DraconicEvolution.ChaosGuardian
-MorePlanet.DustSludgeling
-chisel.snowman
-TwilightForest.Yeti Boss
-customnpcs.npcGolem
-thaumicnexus.CultistPortalLesser
-MorePlanet.SpaceStarfish
-erebus.beetleLarva
-vengeanceSpirit
-TwilightForest.Redcap
-erebus.centipede
-RandomThings.spirit
-excompressum.AngryChicken
-golems.golem_diamond
-erebus.bombardierBeetle
-MorePlanet.KapteynBCreeperBoss
-TwilightForest.SnowGuardian
-Mob
+Wolf
 enderzoo.ConcussionCreeper
-MorePlanet.Berry
-golems.golem_clay
-golems.golem_lapis
-MorePlanet.GiantWorm
-Blaze
-TwilightForest.King Spider
-MorePlanet.LemonDuck
-extraplanets.EvolvedGiantSpider
-AWWayofTime.HolyElemental
-Thaumcraft.BrainyZombie
-EMT.archer
-MorePlanet.DionaCreeperBoss
-AWWayofTime.MinorDemonGruntGuardian
-erebus.bedBug
+GalacticraftMars.Sludgeling
+golems.golem_emerald
+golems.golem_wool
+ThaumicHorizons.NightmareTH
+MorePlanet.InfectedZombie
+MorePlanet.FrozenSludgeling
+primitivemobs.Minion
+erebus.fireAnt
+Mob
+AWWayofTime.FireElemental
+TwilightForest.Forest Bunny
+golems_addon_tconstruct.golem_ender
+MorePlanet.Grappy
 MorePlanet.DionaMinionCreeper
-WarpTheory.creeperPassive
-TwilightForest.Tower Golem
-MorePlanet.EvolvedSiriusBlazeBoss
+AWWayofTime.BileDemon
+TwilightForest.Swarm Spider
+erebus.bombardierBeetleLarva
+computronics.swarm
+GalacticraftCore.EvolvedSpider
+MorePlanet.MilkCow
+AWWayofTime.WingedFireDemon
+TwilightForest.Tower Termite
+erebus.tarantulaminiboss
+golems.golem_stained_glass
+AWWayofTime.Shade
+golems.golem_ice
 golems_addon_tconstruct.golem_bronze
-Paul
-MorePlanet.EvolvedEnderman
-TwilightForest.Skeleton Druid
-Villager
-BuildCraft|Robotics.bcRobot
-erebus.blackAnt
-ThaumicHorizons.HorseZombie
-erebus.stagBeetle
+Thaumcraft.EldritchWarden
+erebus.bloodSnail
+erebus.cicada
 TwilightForest.Death Tome
-primitivemobs.FestiveCreeper
-AWWayofTime.WaterElemental
-TwilightForest.Lower Goblin Knight
-primitivemobs.RocketCreeper
-TConstruct.KingSlime
-customnpcs.npcpony
+hardcorewither.SkeletonMinion
+TwilightForest.Wild Boar
+GalacticraftCore.EvolvedZombie
+AWWayofTime.HolyElemental
+MorePlanet.FronosVillager
+golems_addon_tconstruct.golem_hambone
+Bat
+golems.golem_glass
+Sanguimancy.EntityPlayerPointer
+erebus.chameleonTick
+extraplanets.EvolvedBlaze
+AWWayofTime.FallenAngel
+primitivemobs.TreasureSlime
+erebus.beetleLarva
+erebus.snapper
+Thaumcraft.CultistPortal
+golems.golem_obsidian
+ThaumicHorizons.GolemTH
+TwilightForest.Redcap
+GalacticraftCore.EvolvedSkeleton
+Creeper
+chisel.snowman
+ThaumicHorizons.MercurialSlime
+golems.golem_tnt
+customnpcs.npcfurrymale
+TwilightForest.Questing Ram
+erebus.bedBug
+magianaturalis.evilTrunk
+customnpcs.npczombiefemale
+AWWayofTime.LowerGuardian
+MorePlanet.VenusianVillager
+TwilightForest.Bighorn Sheep
+Ghast
+erebus.workerBee
+Witch
+Forestry.butterflyGE
+TwilightForest.Upper Goblin Knight
+NuclearMonster
+Thaumcraft.GiantBrainyZombie
+TConstruct.EdibleSlime
+MorePlanet.CreamSlime
+AWWayofTime.MinorDemonGruntGuardianWind
+golems.golem_stained_clay
+Mekanism.Robit
 Thaumcraft.MindSpider
-golems.golem_nether_brick
+MagicCookie.MagicCookieGolem
+MorePlanet.Marshmallow
+WitherBoss
+MorePlanet.GiantWorm
+MorePlanet.CheeseCubeBoss
+Botania.botania:pixie
+customnpcs.npcelffemale
+MorePlanet.EvolvedEnderman
+AWWayofTime.WaterElemental
+MorePlanet.LemonDuck
+TwilightForest.Redcap Sapper
+MorePlanet.InfectedWorm
+erebus.stagBeetle
+erebus.prayingMantis
+DraconicEvolution.EnderDragon
+golems.golem_end_stone
+MorePlanet.SpaceStarfish
+Thaumcraft.Golem
+MorePlanet.SiriusMagmaCube
+Thaumcraft.Wisp
+Thaumcraft.Firebat
+WarpTheory.creeperPassive
+TwilightForest.Mini Ghast
+TwilightForest.Yeti
+EntityHorse
+erebus.extractedBlock
+netherfish
+erebus.magmaCrawler
+extraplanets.EvolvedMiniEnderman
+MorePlanet.Kiwi
+erebus.velvetWorm
+erebus.bombardierBeetle
+Botania.botania:pinkWither
+Thaumcraft.EldritchCrab
+golems_addon_tconstruct.golem_alumite
+TwilightForest.Ice Crystal
+extraplanets.CreeperBossSaturn
+TwilightForest.Tower Ghast
+AWWayofTime.ShadeElemental
+primitivemobs.SkeletonWarrior
+customnpcs.npcorcfemale
+primitivemobs.BewitchedTome
+Monster
+golems.golem_lapis
+golems.golem_straw
+primitivemobs.HauntedTool
+erebus.tarantula
+TwilightForest.Hedge Spider
+MorePlanet.StrawberryChicken
+golems_addon_tconstruct.golem_tin
+customnpcs.npccrystal
+TwilightForest.Troll
+Thaumcraft.Taintacle
+Thaumcraft.CultistKnight
+golems_addon_tconstruct.golem_glue
 TwilightForest.Fire Beetle
+AWWayofTime.MinorDemonGruntIce
+TwilightForest.WinterWolf
+AWWayofTime.SmallEarthGolem
+erebus.botFlyLarva
+TwilightForest.Glacier Penguin
+primitivemobs.Sheepman
+primitivemobs.BrainSlime
+golems_addon_tconstruct.golem_alum
+NetherOres.netherOresHellfish
+Basalz
+ThaumicHorizons.MedSlime
+MorePlanet.PlutoCreeperBoss
+TwilightForest.Minotaur
+MorePlanet.CheeseCow
+Thaumcraft.TaintedCreeper
+golems.golem_wooden
+grue.EntityGrue
+golems.golem_sandstone
+golems.golem_diamond
+extraplanets.CreeperBossEris
+golems.golem_sponge
+erebus.scorpion
+ThaumicHorizons.LostSoul
+MorePlanet.PlutoAlien
+Thaumcraft.TaintSwarmer
+ThaumicHorizons.Gravekeeper
+extraplanets.EvolvedEnderman
+erebus.antlion
+erebus.punchroom
+AWWayofTime.MinorDemonGrunt
+primitivemobs.FestiveCreeper
+Ozelot
+AWWayofTime.EarthElemental
+GalacticraftCore.EvolvedCreeper
+erebus.midgeSwarm
+MorePlanet.Berry
+MorePlanet.FronosBossTemp
+Natura.Imp
+ThaumicHorizons.Seawolf
+erebus.zombieAnt
+MorePlanet.KoentusianVillager
+TwilightForest.Mist Wolf
+golems.golem_glowstone
+SnowMan
+Natura.FlameSpiderBaby
+TwilightForest.Hydra
+customnpcs.npcdwarfmale
+erebus.blackWidow
+magianaturalis.ferociousRevenant
+primitivemobs.SupportCreeper
+customnpcs.npcpony
+golems_addon_tconstruct.golem_manyullyn
+VillagerGolem
+erebus.blackAnt
+erebus.zombieAntSoldier
+ThaumicHorizons.ScholarChicken
+foundry.gunSkeleton
+extraplanets.CreeperBossUranus
+golems.golem_melon
+Blitz
+Thaumcraft.TaintedSheep
+MorePlanet.DionaCreeperBoss
+erebus.moneySpider
+MushroomCow
+AWWayofTime.MinorDemonGruntGuardianEarth
+golems.golem_clay
+extraplanets.EvolvedIceSlime
+MorePlanet.Tomato
+TwilightForest.King Spider
+TwilightForest.Redscale Broodling
+ThaumicHorizons.ChromaticSheep
+AWWayofTime.BoulderFist
+Natura.NitroCreeper
+thaumicnexus.CultistPortalLesser
+TwilightForest.Unstable Ice Core
+Thaumcraft.CultistLeader
+taintBreeder
+moreShearables.ChickenNaked
+erebus.dragonfly
+TwilightForest.Twilight Lich
+extraplanets.EvolvedMagmaCube
+Slime
+MorePlanet.SiriusBlaze
+primitivemobs.Lily
+Silverfish
+extraplanets.CreeperBossNeptune
+Zombie
+Thaumcraft.TaintacleTiny
+AWWayofTime.AirElemental
+TwilightForest.Armored Giant
+TwilightForest.Skeleton Druid
+erebus.solifuge
+erebus.umberGolemIdol
+TwilightForest.Naga
+hardcorewither.GhastMinion
+customnpcs.npczombiemale
+customnpcs.CustomNpc
+MorePlanet.Melon
+Villager
+TwilightForest.Knight Phantom
+MineFactoryReloaded.mfrEntityPinkSlime
+ThaumicHorizons.LunarWolf
+customnpcs.npcnagafemale
+erebus.titanBeetle
+MorePlanet.CreamGolem
+TwilightForest.Adherent
+AWWayofTime.MinorDemonGruntGuardian
+erebus.umberGolem
+TwilightForest.Giant Miner
+TwilightForest.Lower Goblin Knight
+primitivemobs.SheepmanSmith
+EMT.archer
+Thaumcraft.TaintedVillager
+erebus.jumpingSpider
+erebus.crushroom
+golems.golem_coal
+MorePlanet.Bearry
+ThaumicHorizons.HorseSkeleton
+OpenBlocks.MiniMe
+customnpcs.npcfurryfemale
+Thaumcraft.EldritchGolem
+Sanguimancy.EntityChickenMinion
+customnpcs.npcskeleton
+MorePlanet.VenusianBlaze
+ThaumicHorizons.SelfShearingSheep
+TConstruct.KingSlime
+erebus.wasp
+TwilightForest.Helmet Crab
+werewolf
+Automagy.WispNether
+TwilightForest.Firefly
+excompressum.AngryChicken
+erebus.mosquito
+erebus.crushling
+golems_addon_tconstruct.golem_slime
+vengeanceSpirit
+GalacticraftCore.EvolvedSkeletonBoss
+primitivemobs.TravelingMerchant
+Botania.botania:doppleganger
+AgriCraft.villagerFarmer
+MorePlanet.VenusianSlime
+ThaumicHorizons.Endersteed
+MorePlanet.CheeseSlime
+customnpcs.npcvillager
+MorePlanet.KoentusSludgeling
+TwilightForest.RovingCube
+ThaumicHorizons.HorseZombie
+TwilightForest.Minoshroom
+TwilightForest.Forest Squirrel
+erebus.beetle
+golems.golem_leaf
+primitivemobs.LostMiner
+enderzoo.FallenMount
+primitivemobs.MotherSpider
+customnpcs.npcorcfmale
+erebus.antlionBoss
+AWWayofTime.MinorDemonGruntEarth
+golems_addon_tconstruct.golem_seared
+TwilightForest.Tower Boss
+golems.golem_redstone
+golems_addon_tconstruct.golem_copper
+MorePlanet.SiriusCreeper
+erebus.wisp
+TwilightForest.HydraHead
+AWWayofTime.MinorDemonGruntFire
+Thaumcraft.TaintacleGiant
+TwilightForest.Yeti Boss
+TwilightForest.Twilight Wraith
+Skeleton
+ThaumicHorizons.Familiar
+erebus.centipede
+TwilightForest.Block&Chain Goblin
+ThaumicHorizons.GuardianPanther
+AWWayofTime.IceDemon
+customnpcs.npchumanfemale
+erebus.grasshopper
+primitivemobs.LilyLurker
+erebus.tarantulababy
+Thaumcraft.TaintSpider
+TwilightForest.Wild Deer
+Brian
+erebus.honeyPotAnt
+customnpcs.npcdwarffemale
+Thaumcraft.TaintSpore
+moreShearables.PigNaked
+MorePlanet.DustSludgeling
+Thaumcraft.CultistCleric
+Blaze
+RandomThings.spirit
+TwilightForest.Lich Minion
+erebus.antlionMiniBoss
+erebus.botFly
+TwilightForest.Loyal Zombie
+BuildCraft|Robotics.bcRobot
+erebus.fly
+golems.golem_quartz
+Thaumcraft.EldritchGuardian
+enderzoo.Enderminy
+TwilightForest.Mosquito Swarm
+Spider
+MorePlanet.EvolvedSiriusBlazeBoss
+golems_addon_tconstruct.golem_alumbrass
+thaumicnexus.TaintCrawler
+enderzoo.DireWolf
+ThaumicHorizons.MeatSlime
+EnderDragon
+enderzoo.WitherCat
+TwilightForest.Twilight Kobold
+Thaumcraft.TaintSwarm
+extraplanets.EvolvedWitch
+Thaumcraft.Pech
+Paul
+TwilightForest.Snow Queen
+erebus.solifugeSmall
+MorePlanet.KapteynBCreeperBoss
+ThaumicHorizons.OrePig
+erebus.gasVent
+MorePlanet.EvolvedWitch
+witherSkeleton
+TwilightForest.Slime Beetle
+Cow
+DraconicEvolution.ChaosGuardian
+LavaSlime
+primitivemobs.Chameleon
+Mekanism.BabySkeleton
+TwilightForest.Harbinger Cube
+PigZombie
+customnpcs.npcnagamale
+Thaumcraft.TaintedPig
+extraplanets.EvolvedBlueCreeper
+extraplanets.EvolvedGiantSpider
+MorePlanet.EuropaCrab
+enderzoo.WitherWitch
+erebus.pondskater
+customnpcs.NpcSlime
+TwilightForest.Tower Golem
+erebus.scytodes
+MorePlanet.EvolvedInfectedSpiderBoss
+Pig
+MorePlanet.JellySlime
+erebus.wheatWeevil
+ThaumicHorizons.TaintEaterPig
+GalacticraftCore.AlienVillager
+Squid
+erebus.locust
+customnpcs.npchumanmale
+erebus.animatedBambooCrate
