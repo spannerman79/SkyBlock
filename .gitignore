@@ -49,3 +49,14 @@ config/Loot++/IDs/*.*
 mods/carpentersblocks/CarpentersBlocksCachedResources.zip
 mods/VoxelMods/*.*
 config/new 5.txt
+config/AppliedEnergistics2/CustomRecipes.cfg
+config/AppliedEnergistics2/CustomRecipes.cfg
+config/AppliedEnergistics2/recipes/items.csv
+config/ChanceCubes/CustomRewards/Resourcepack/CustomSounds-Resourcepack.zip
+config/contenttweaker/resourcepack/ContentTweaker-Resourcepack.zip
+config/customthings/resourcepack/CustomThings-Resourcepack.zip
+config/enderio/mobTypes.txt
+config/fastcraft.ini
+config/LegibleNei/LegibleNei.log
+config/NEI/client.cfg
+config/UniqueNames.txt
