@@ -60,3 +60,6 @@ config/fastcraft.ini
 config/LegibleNei/LegibleNei.log
 config/NEI/client.cfg
 config/UniqueNames.txt
+config/AppliedEnergistics2/recipes/items.csv
+config/ChanceCubes/CustomRewards/Resourcepack/CustomSounds-Resourcepack.zip
+config/contenttweaker/resourcepack/ContentTweaker-Resourcepack.zip
