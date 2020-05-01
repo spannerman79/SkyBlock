@@ -10,6 +10,9 @@
     "Natura MFR Compatibility": {
       "enabled": true
     },
+    "Natura BuildCraft Compatibility": {
+      "enabled": true
+    },
     "Natura Thaumcraft Compatibility": {
       "enabled": true
     },
@@ -20,9 +23,6 @@
       "enabled": true
     },
     "Natura Waila Compatibility": {
-      "enabled": true
-    },
-    "Natura BuildCraft Compatibility": {
       "enabled": true
     }
   }

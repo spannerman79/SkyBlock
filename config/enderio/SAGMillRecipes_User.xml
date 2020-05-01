@@ -97,9 +97,5 @@
 -->
 
 <SAGMillRecipes>
-  <grindingBalls>
-    <grindingBall id="Compressed Flint" grindingMultiplier="2.8" chanceMultiplier="3.25" powerMultiplier="0.07" durationRF="216000" >
-      <itemStack modID="excompressum" itemName="compressed_dust" itemMeta="5" />
-    </grindingBall>
-  </grindingBalls>
+
 </SAGMillRecipes>

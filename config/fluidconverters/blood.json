@@ -1,6 +1,6 @@
 {
     groupId : "blood",
-    groupName : "Blood Conversion",
+    groupName : "Blood",
     fluidElements : [
         {
             fluidName: "evilcraftblood",
@@ -15,6 +15,5 @@
             value: 1.0
         }
 
-    ],
-	hasRecipe : true
+    ]
 }

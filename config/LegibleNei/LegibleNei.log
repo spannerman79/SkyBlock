@@ -15,9 +15,9 @@ keep: |default|default|MASK|default|default|MASK|MASK|MASK|MASK|
 keep-onei: |oneid|oneid|default|oneid|oneid|default|default|default|default|
 show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 ----------------------------------------------------
-13314 items registered
-93 filters loaded
-1508 items matched in 194 ms
+12256 items registered
+96 filters loaded
+1548 items matched in 104 ms
 ----------------------------------------------------
 
 - appliedenergistics2 :
@@ -242,6 +242,19 @@ show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 	+ thatch0SlabFull:                          	hide:[]
 	+ twigWand:                                 	keep-one:[0]
 	+ unstableBlock:                            	keep:[0]
+- Botany :
+	+ ceramic:                                  	keep-one:[0]
+	+ ceramicBrick:                             	keep-one:[0]
+	+ clay:                                     	keep-one:[0]
+	+ flower:                                   	hide:[]
+	+ insulatedTube:                            	keep-one:[0]
+	+ pigment:                                  	keep-one:[0]
+	+ plant:                                    	hide:[]
+	+ pollen:                                   	hide:[]
+	+ seed:                                     	hide:[]
+	+ stained:                                  	keep-one:[0]
+- BuildCraft|Core :
+	+ paintbrush:                               	keep-one:[]
 - BuildCraft|Robotics :
 	+ redstone_board:                           	keep-one:[]
 	+ robot:                                    	keep-one:[]
@@ -510,8 +523,29 @@ show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 	+ toolrod:                                  	hide:[]
 	+ toughbind:                                	hide:[]
 	+ toughrod:                                 	hide:[]
+- ExtraTrees :
+	+ door:                                     	keep:[0]
+	+ doubleSlab:                               	keep:[0]
+	+ fence:                                    	keep:[0]
+	+ gate:                                     	keep:[0]
+	+ panel:                                    	keep:[0]
+	+ slab:                                     	keep:[0]
+	+ stairs:                                   	keep:[0]
 - ExtraUtilities :
 	+ cobblestone_compressed:                   	keep:[0, 8, 12, 14]
+	+ color_blockCoal:                          	keep:[0]
+	+ color_blockLapis:                         	keep:[0]
+	+ color_blockRedstone:                      	keep:[0]
+	+ color_brick:                              	keep:[0]
+	+ color_hellsand:                           	keep:[0]
+	+ color_lightgem:                           	keep:[0]
+	+ color_obsidian:                           	keep:[0]
+	+ color_quartzBlock:                        	keep:[0]
+	+ color_redstoneLight:                      	keep:[0]
+	+ color_stone:                              	keep:[0]
+	+ color_stonebrick:                         	keep:[0]
+	+ colorStoneBrick:                          	keep:[0]
+	+ colorWoodPlanks:                          	keep:[0]
 	+ decorativeBlock2:                         	keep:[0]
 	+ drum:                                     	keep-one:[0, 1]
 	+ generator.64:                             	keep:[0]
@@ -1262,9 +1296,11 @@ show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 	+ water:                                    	hide:[]
 	+ wool:                                     	keep:[0]
 - OpenBlocks :
+	+ crayonGlasses:                            	keep-one:[]
 	+ elevator:                                 	keep:[0]
 	+ elevator_rotating:                        	keep:[0]
 	+ paintBrush:                               	keep-one:[]
+	+ paintcan:                                 	keep-one:[]
 	+ tank:                                     	keep-one:[]
 	+ trophy:                                   	keep-one:[]
 - TConstruct :
@@ -1514,11 +1550,17 @@ show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 	+ auroraBlock:                              	keep:[0]
 	+ booster:                                  	keep:[0]
 	+ cleanDirt:                                	keep:[0]
+	+ diamondZane:                              	keep:[0]
 	+ hunger:                                   	keep:[0]
 	+ lampb:                                    	keep:[0]
 	+ lampf:                                    	keep:[0]
 	+ lampt:                                    	keep:[0]
+	+ minicharcoal:                             	keep:[0]
+	+ minicoal:                                 	keep:[0]
+	+ ofanix:                                   	keep:[0]
+	+ splatAxe:                                 	keep:[0]
 	+ stoneTile:                                	keep:[0]
+	+ terrainEater:                             	keep:[0]
 	+ tile.agonBlock:                           	keep:[0]
 	+ tile.azurBlock:                           	keep:[0]
 	+ tile.bittBlock:                           	keep:[0]
@@ -1553,3 +1595,4 @@ show: |SHOW|SHOW|default|SHOW|SHOW|default|default|default|default|
 	+ tile.zorgBlock:                           	keep:[0]
 	+ tile.ztylBlock:                           	keep:[0]
 	+ tile.zythBlock:                           	keep:[0]
+	+ totemTool:                                	keep:[0]

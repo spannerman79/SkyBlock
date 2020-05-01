@@ -65,11 +65,11 @@
         },
         "mainScreenExtraLine": {
             "comment": "Enables extra line in main menu screen under buttons (if true, only note button will be displayed)",
-            "value": false
+            "value": true
         },
         "mainScreenNotes": {
             "comment": "Enables OpenEye additions to main menu screen",
-            "value": false
+            "value": true
         },
         "notesButtonPosX": {
             "comment": "X coordinate of notes button",

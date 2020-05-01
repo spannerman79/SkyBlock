@@ -158,10 +158,5 @@
     "inputItem": "minecraft:red_flower:5:1",
     "outputItem": "minecraft:dye:14:3",
     "experience": 0.1
-  },
-  {
-    "inputItem": "minecraft:rotten_flesh:0",
-    "outputItem": "minecraft:leather:0",
-    "experience": 0.1
-    }
+  }
 ]
